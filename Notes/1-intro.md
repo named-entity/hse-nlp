@@ -56,6 +56,7 @@ https://arxiv.org/abs/1912.09723
 
 ### Согласованность разметки (inter-annotator agreement)
 Cohen's kappa: [Wiki](https://en.wikipedia.org/wiki/Cohen%27s_kappa)
+
 [Глава из сборника по лингвистической аннотации/разметке](https://link.springer.com/chapter/10.1007/978-94-024-0881-2_1) 
 
 ### Бенчмарки 

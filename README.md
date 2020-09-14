@@ -20,4 +20,4 @@
 |14.09|[Лекция 1. Введение. NLP Pipeline.](https://drive.google.com/file/d/1zIyF08UoEnWzI9iNk18L2XIHrsa_vCpQ/view?usp=sharing)||||||
 
 ## Дополнительные материалы<a name="add"/>
-[Лекция 1]()
+[Лекция 1](Notes/1-intro.md)

@@ -18,7 +18,7 @@
 |Дата|Лекция|Дата|Семинар|Домашнее задание|Ридинг|Дедлайн|
 |-|-|-|-|-|-|-|
 |14.09|[Введение. NLP Pipeline.](https://drive.google.com/file/d/1zIyF08UoEnWzI9iNk18L2XIHrsa_vCpQ/view?usp=sharing)|14.09|Базовый пайплайн (различные способы сбора и препроцессинга и анализа данных) на примере создания простого спеллчекера. Работа с NLTK, векторами и рассстоянием Левинштейна.||[Neural Language Models](https://web.stanford.edu/~jurafsky/slp3/7.pdf)||
-|22.09|[Статистические и нейросетевые  языковые модели.]()||||||
+|21.09|[Статистические и нейросетевые  языковые модели.](https://drive.google.com/file/d/1qpyqYzVM9xtgkC1rbHAaBPTGfnwDo4Rm/view?usp=sharing)|21.09|||||
 
 ## Дополнительные материалы<a name="add"/>
 [Лекция 1](Notes/1-intro.md)

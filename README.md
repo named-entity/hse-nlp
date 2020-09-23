@@ -18,7 +18,8 @@
 |Дата|Лекция|Дата|Семинар|Домашнее задание|Ридинг|Дедлайн|
 |-|-|-|-|-|-|-|
 |14.09|[Введение. NLP Pipeline.](https://drive.google.com/file/d/1zIyF08UoEnWzI9iNk18L2XIHrsa_vCpQ/view?usp=sharing)|14.09|Базовый пайплайн (различные способы сбора, препроцессинга и анализа данных) на примере создания простого спеллчекера. Работа с NLTK, векторами и расстоянием Левинштейна.||[Neural Language Models](https://web.stanford.edu/~jurafsky/slp3/7.pdf)||
-|21.09|[Статистические и нейросетевые  языковые модели.](https://drive.google.com/file/d/1qpyqYzVM9xtgkC1rbHAaBPTGfnwDo4Rm/view?usp=sharing)|21.09|Определения языка посредством сотавления словарей и посредством машинного обучения. Sklearn -начало|Определение тональной окраски отзыва с помощью словаря |[Neural Language Models](https://web.stanford.edu/~jurafsky/slp3/7.pdf)|06.09.2020 23659|
+|21.09|[Статистические и нейросетевые  языковые модели.](https://drive.google.com/file/d/1qpyqYzVM9xtgkC1rbHAaBPTGfnwDo4Rm/view?usp=sharing)|21.09|Определения языка посредством сотавления словарей и посредством машинного обучения. Sklearn -начало|Определение тональной окраски отзыва с помощью словаря |[Neural Language Models](https://web.stanford.edu/~jurafsky/slp3/7.pdf)|06.10.2020 23:59|
 
 ## Дополнительные материалы<a name="add"/>
 [Лекция 1](Notes/1-intro.md)
+[Лекция 2](Notes/2-lm.md)

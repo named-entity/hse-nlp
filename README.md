@@ -21,7 +21,7 @@
 |21.09|[Статистические и нейросетевые  языковые модели.](https://drive.google.com/file/d/1qpyqYzVM9xtgkC1rbHAaBPTGfnwDo4Rm/view?usp=sharing)|21.09|Определения языка посредством сотавления словарей и посредством машинного обучения. Sklearn -начало|Определение тональной окраски отзыва с помощью словаря |[Neural Language Models](https://web.stanford.edu/~jurafsky/slp3/7.pdf)|06.10.2020 23:59|
 |28.09|[Нейронные сети и языковые модели. Продолжение.](https://drive.google.com/file/d/1VXFr-ZTWfa7dTOh-vz3os4ydqCKI6ZVQ/view?usp=sharing)|28.09|Natasha и аналогичные библиотеки. Разные способы морфологической и синтаксической обработки текста|Сравнение качества POS-теггеров и выделение синтаксических групп|-|13.10.2020 23:59|
 |-|-|02.10|Поиск похожих текстов посредством TF_IDF векторайзера|-|-|-|
-|5.10|[Автоматический морфологический анализ.]()|5.10|-|[NLP Evaluation](http://www.dialog-21.ru/media/1674/49.pdf)|-|-|
+|5.10|[Автоматический морфологический анализ.](https://drive.google.com/file/d/1QDn5zELq9x-4nrXsa6W9yLMi-EggMdIt/view?usp=sharing)|5.10|POS Tagging (pymorphy, HMM, RNN)|[NLP Evaluation](http://www.dialog-21.ru/media/1674/49.pdf)|-|-|
 
 ## Дополнительные материалы<a name="add"/>
 [Лекция 1](Notes/1-intro.md)

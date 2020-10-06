@@ -10,6 +10,7 @@
 ## Word embeddings
 
 [Sebastian Ruder's post on word embeddings](https://ruder.io/word-embeddings-1/index.html)
+
 [Word2Vec tutorial](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 
 ## Neural language models

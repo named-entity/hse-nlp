@@ -20,3 +20,16 @@
 Ещё туториал с картинками: [часть 1 - forward pass](https://medium.com/@SauceCat/forward-propagation-for-feed-forward-networks-ac8fcb6bdd60), [часть 2 - backward pass](https://towardsdatascience.com/backward-propagation-for-feed-forward-networks-afdf9d038d21)
 
 В NLP in action (см. материалы к 1 лекции) - Глава 5, **Baby steps with neural networks**
+
+## Разное
+
+(сначала можно посмотреть ссылки из основной литературы)
+
+1. S. Chen and J. Goodman. An empirical study of smoothing techniques for language modeling.
+Computer Speech and Language (1999) 13, 359–394.
+
+2.  Kenneth Heafield. [Language Modeling](http://ufal.mff.cuni.cz/mtm15/files/09-language-modelling-kenneth-heafield.pdf)
+
+3. [Kneser-Ney smoothing explained](http://www.foldl.me/2014/kneser-ney-smoothing/)
+
+4. Yoav Goldberg. [The unreasonable effectiveness of Character-level Language Models.](https://nbviewer.jupyter.org/gist/yoavg/d76121dfde2618422139)

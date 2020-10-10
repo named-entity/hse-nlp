@@ -23,6 +23,8 @@
 |-|-|02.10|[Поиск похожих текстов посредством TF_IDF векторайзера](seminars/NLP_Tf_IDF_done.ipynb)|-|-|-|
 |5.10|[Автоматический морфологический анализ.](https://drive.google.com/file/d/1QDn5zELq9x-4nrXsa6W9yLMi-EggMdIt/view?usp=sharing)|5.10|[POS Tagging (pymorphy, HMM, RNN)](seminars/NLP_Pos_tagging_done.ipynb)|-|[NLP Evaluation](http://www.dialog-21.ru/media/1674/49.pdf)|-|
 |-|-|09.10|[Topic Modeling с помощью Gensim](https://github.com/named-entity/hse-nlp/blob/master/seminars/NLP_6__Gensim_TopicModeling_Gensim_done.ipynb)|[Определение темы через Gensim и TF_IDF](https://github.com/named-entity/hse-nlp/blob/master/DZ3.ipynb)|-|19.10 23:59|
+|-|-|12.10|[Синтаксис в NLTK](https://github.com/named-entity/hse-nlp/blob/master/seminars/NLP__NLTK_SYNTAX_blanked.ipynb)|-|-|-|
+|-|-|17.10|[Question Answering. BERT]|-|-|-|
 
 ## Дополнительные материалы<a name="add"/>
 [Лекция 1](Notes/1-intro.md)

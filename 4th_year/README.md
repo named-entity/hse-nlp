@@ -16,10 +16,12 @@
 |30.10|[Введение. Извлечение ключевых слов.](Slides/1_Keywords.ipynb)|30.10|[Синтексис:UDpipe, NLTK](https://github.com/named-entity/hse-nlp/blob/master/4th_year/seminar/1_Syntax_blanked%20(1).ipynb)|[Ключевые слова](hw/hw1.md)|-|9.11 23:59мск|
 |-|-|5.11||-|-|-|
 |6.11|[Извлечение коллокаций](Slides/2_Collocations.ipynb)|6.11|[Извлечение коллокаций](Slides/2_Collocations.ipynb)|-|-|-|
+|13.11|[Named entity recognition](Slides/3_NER.ipynb)|13.11|-|-|-|-|
 
 ## Литература по курсу<a name="ref"/>
 [тут](References.md)
 
 ## Дополнительные материалы<a name="add"/>
 [Лекция 1](Notes/1.md)
+
 [Лекция 2](Notes/2.md)

@@ -1,7 +1,7 @@
 # Дополнительные материалы к лекции 1 (введение, пайплайн АОТ) 
  
 ## Основная литература 
-D. Jurafsky, J. Martin (2019) Speech and Language Processing. (in progress) [ссылка](https://web.stanford.edu/~jurafsky/slp3/)  (самый-самый основной)
+D. Jurafsky, J. Martin (2020) Speech and Language Processing. (in progress) [ссылка](https://web.stanford.edu/~jurafsky/slp3/)  (самый-самый основной)
 
 Y. Goldberg (2017) Neural Network Methods  for Natural Language Processing. [ссылка](https://yadi.sk/i/Kb3O5yny2lNFzA)
 

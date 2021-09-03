@@ -16,11 +16,16 @@ C. Manning, H. Schutze (1999) [Statistical Natural Language Processing](https://
 
 [Computational Linguistics](https://www.mitpressjournals.org/loi/coli)  
 [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering)  
-Материалы конференции “Диалог” [ссылка](http://www.dialog-21.ru/digests)  
+Материалы конференции “Диалог” [ссылка](http://www.dialog-21.ru/digests) 
+
+## Про историю NLP
+[The return of the chatbots](https://www.cambridge.org/core/journals/natural-language-engineering/article/return-of-the-chatbots/0ACB73CB66134BFCA8C1D55D20BE6392)
+[Chatbots: History, technology, and applications](https://www.researchgate.net/profile/Eleni-Adamopoulou-2/publication/345815999_Chatbots_History_technology_and_applications/links/5fb2cb9445851518fdac926f/Chatbots-History-technology-and-applications.pdf) 
 
 ## Полезные ресурсы 
 ### Данные, корпуса, методы 
 [NLPub](https://nlpub.ru/Заглавная_страница)
+[Список open-source корпусов, собранный Т. Шавриной](https://tatianashavrina.github.io/2018/08/30/datasets/)
 [Brown corpus](http://icame.uib.no/brown/bcm.html) 
 [Корпуса для английского](https://aclweb.org/aclwiki/Corpora_for_English) 
 [НКРЯ](https://ruscorpora.ru/new/) 

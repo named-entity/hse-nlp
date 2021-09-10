@@ -1,5 +1,5 @@
 ## Statistical language models
-!!важно!! [Jurafsky+Martin Chapter 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
+!!самое базовое введение!! [Jurafsky+Martin Chapter 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
 
 более подробно про сглаживание: [Michael Collins' NLP course slides](http://www.cs.columbia.edu/~mcollins/lm-spring2013.pdf)
 
@@ -7,11 +7,6 @@
 
 [G. Neubig. Neural machine translation and sequence-to-sequence models](https://arxiv.org/pdf/1703.01619.pdf) - разделы 3-4
 
-## Word embeddings
-
-[Sebastian Ruder's post on word embeddings](https://ruder.io/word-embeddings-1/index.html)
-
-[Word2Vec tutorial](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 
 ## Neural language models
 [G. Neubig. Neural machine translation and sequence-to-sequence models](https://arxiv.org/pdf/1703.01619.pdf) - разделы 5-6
@@ -24,7 +19,7 @@
 
 ## Разное
 
-(сначала можно посмотреть ссылки из основной литературы)
+(ещё можно посмотреть ссылки из основной литературы)
 
 1. S. Chen and J. Goodman. An empirical study of smoothing techniques for language modeling.
 Computer Speech and Language (1999) 13, 359–394.

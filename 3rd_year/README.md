@@ -18,5 +18,7 @@
 
 ## Дополнительные материалы<a name="add"/>
 [Лекция 1](Notes/1-intro.md)
+
 [Лекция 2](Notes/2-lm.md)
-[Лекция 2](Notes/3-pos.md)
+
+[Лекция 3](Notes/3-pos.md)

@@ -14,7 +14,9 @@
 |-|-|-|-|-|-|-|
 |3.09|[Введение. NLP Pipeline.](Slides/1-intro.pdf)|3.09| NLP Pipeline. Где искать и обрабатывать данные. Базовый спеллчекер, accuracy и расстояние Левинштейна ([пустой](https://colab.research.google.com/drive/1w02iQpc18eQcToG1vKJoheVdblGBqFqk#scrollTo=_PF9wrJlermY), [готовый](https://colab.research.google.com/drive/1BqXRwoi_qJnmVYUgTsfa1SKHDat5xROk#scrollTo=Dh0CDmMmiScF))||||
 |10.09|[Препроцессинг, статистические LM.](Slides/2-lm.pdf)|10.09|Определения языка - проблемы препроцессинга и сбора статистики ([пустой](https://colab.research.google.com/drive/1ZhgrUDmURteycdlJwGWxpg-qYfcQGZQy?usp=sharing), [готовый](https://colab.research.google.com/drive/1QvkS3ORCgihdJY_VIcZ7XAHFit4LfBaS?usp=sharing))|[Sentiment Analysis при помощи словарей и множеств](https://github.com/named-entity/hse-nlp/blob/master/3rd_year/Hometask_1.ipynb)|[Статистические модели](http://norvig.com/chomsky.html)| дз - 19 сентября, ридинг - к семинару|
+|17.09|[Автоматический морфологический анализ]()|17.09|||||
 
 ## Дополнительные материалы<a name="add"/>
 [Лекция 1](Notes/1-intro.md)
 [Лекция 2](Notes/2-lm.md)
+[Лекция 2](Notes/3-pos.md)

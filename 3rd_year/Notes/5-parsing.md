@@ -26,7 +26,6 @@ Linguistics, 29(4). 2003](https://www.aclweb.org/anthology/J03-4003.pdf)
 
 Nivre J. [Algorithms for Incremental Dependency Parsing. Computational Linguistics V.34 N.4 2008](https://www.aclweb.org/anthology/J08-4003.pdf)
 
-Nivre J. [Non-projective Dependency Parsing in Expected Linear Time. ACL IJCNLP 2009]()
 
 Weiss D. et al. [Structured Training for Neural Network Transition-Based Parsing. 2016](https://arxiv.org/abs/1506.06158v1)
 
@@ -39,11 +38,19 @@ Dependency Parsing. CoNLL 2018]()
 
 [Yu Zhang, Houquan Zhou, Zhenghua Li. Fast and Accurate Neural CRF Constituency Parsing](https://arxiv.org/pdf/2008.03736v1.pdf)
 
+## Про непроективность
+
+Nivre J. [Non-projective Dependency Parsing in Expected Linear Time. ACL IJCNLP 2009](https://www.aclweb.org/anthology/P09-1040.pdf)
+
+Nivre J. [Constraints on Non-Projective Dependency Parsing. EACL 2006](https://aclanthology.org/E06-1010.pdf)
+
 ## Оценка качества
 
 [CoNLL Evaluation](https://universaldependencies.org/conll18/evaluation.html)
 
 [Оценка методов автоматического анализа текста 2011–2012: синтаксические парсеры русского языка](http://www.dialog-21.ru/media/1385/toldova.pdf)
+
+[GramEval 2020](http://www.dialog-21.ru/evaluation/2019/disambiguation/grameval/)
 
 ## Инструменты
 
@@ -53,9 +60,11 @@ Dependency Parsing. CoNLL 2018]()
 
 [Stanford CoreNLP](https://nlp.stanford.edu/software/)
 
+[stanza]
+
 [MaltParser](http://www.maltparser.org)
  
-[SyntaxNet](https://github.com/tensorflow/models/tree/master/research/syntaxnet)
+[R.I.P. SyntaxNet](https://github.com/tensorflow/models/tree/master/research/syntaxnet)
 
 spaCy: [модели для русского языка](https://github.com/buriy/spacy-ru)
 

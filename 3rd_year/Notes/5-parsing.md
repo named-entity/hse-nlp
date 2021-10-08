@@ -48,6 +48,8 @@ Nivre J. [Constraints on Non-Projective Dependency Parsing. EACL 2006](https://a
 
 [CoNLL Evaluation](https://universaldependencies.org/conll18/evaluation.html)
 
+[Extrinsic Parser Evaluation](http://epe.nlpl.eu/index.php?page=1)
+
 [Оценка методов автоматического анализа текста 2011–2012: синтаксические парсеры русского языка](http://www.dialog-21.ru/media/1385/toldova.pdf)
 
 [GramEval 2020](http://www.dialog-21.ru/evaluation/2019/disambiguation/grameval/)
@@ -60,7 +62,7 @@ Nivre J. [Constraints on Non-Projective Dependency Parsing. EACL 2006](https://a
 
 [Stanford CoreNLP](https://nlp.stanford.edu/software/)
 
-[stanza]
+[stanza](https://stanfordnlp.github.io/stanza/)
 
 [MaltParser](http://www.maltparser.org)
  

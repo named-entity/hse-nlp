@@ -17,6 +17,7 @@
 |17.09|[Автоматический морфологический анализ](Slides/3-pos-tagging.pdf)|17.09|[Natasha и пр. библетеки для (русского) NLP](https://drive.google.com/file/d/1uviAj5vGi2JDMNMzxOM37_XTZN3VZSPo/view)||[Соревнование Dialogue для морфологических парсеров](http://www.dialog-21.ru/media/1674/49.pdf)|ридинг - к семинару;|
 |24.09|[Автоматический морфологический анализ 2](Slides/4-pos-tagging.pdf)|24.09|Еще про POS-tagging, pymorphy и использование статистики [пустой](https://colab.research.google.com/drive/1fv3mWDXW9pKVrT3q_MSzxQJf7w339IRP?usp=sharing) [готовый](https://colab.research.google.com/drive/1wMkEJTvXwrWQg9D6ekqV2iNWEQMD_EiH?usp=sharing)|[Сравнение теггеров](Hometask_2.md)|-| дз - 3.10|
 |4.10|[Автоматический синтаксический анализ](Slides/5-parsing.pdf)|6.10|[КС-грамматики в NLTK](https://colab.research.google.com/drive/1F0osRvkyPAgSmzJIkccSuEXj7Q54sfSW?usp=sharing)|-|На выбор: [1](https://ruder.io/word-embeddings-1/) - про эмбеддинги слов, [2](http://www.ai.mit.edu/courses/6.891-nlp/aaai97.pdf) - про статистический синтаксический парсинг|ридинг - 8.10|
+|8.10|[Автоматический синтаксический анализ 2](Slides/6-parsing.pdf)|8.10||[проект](https://docs.google.com/document/d/1coB7WmQvsgtRyUK4-iKw4Ta6ZoWcWspJfxDSazLWWwo/edit?usp=sharing)|-||
 
 ## Дополнительные материалы<a name="add"/>
 [Лекция 1](Notes/1-intro.md)

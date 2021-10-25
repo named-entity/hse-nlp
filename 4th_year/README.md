@@ -6,14 +6,14 @@
 
 ## Оценка:<br><a name="score"/>
 квизы по материалам лекций - 25%<br>
-домашние задания – 45% <br>
-финальный проект (TBA) – 30%<br>
+домашние задания – 40% <br>
+финальный проект (TBA) – 35%<br>
 работа на семинарах и лекциях – бонусы<br>
 
 ## Расписание лекций, семинаров и домашних заданий<a name="sched"/>
 |Дата|Лекция|Дата|Семинар|Домашнее задание|Ридинг|Дедлайн|
 |-|-|-|-|-|-|-|
-|25.10|[Введение. Извлечение ключевых слов.](Slides/1_Keywords.ipynb)|27.10|[Вспомним синтаксис: UDpipe, stanza](https://github.com/named-entity/hse-nlp/blob/master/4th_year/seminar/1_Syntax_blanked%20(1).ipynb)|[Ключевые слова](hw/hw1.md)|-|9.11 23:59мск|
+|25.10|[Введение. Извлечение ключевых слов.](Slides/1_Keywords.ipynb)|27.10|[Вспомним синтаксис: UDpipe, stanza](https://github.com/named-entity/hse-nlp/blob/master/4th_year/seminar/1_Syntax_blanked%20(1).ipynb)|[Ключевые слова](hw/hw1.md)|-|7.11 23:59мск|
 |1.11|[Извлечение коллокаций](Slides/2_Collocations.ipynb)|3.11|[Извлечение коллокаций](Slides/2_Collocations.ipynb)|-|-|-|
 
 ## Основная литература по курсу<a name="ref"/>

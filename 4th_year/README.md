@@ -13,7 +13,7 @@
 ## Расписание лекций, семинаров и домашних заданий<a name="sched"/>
 |Дата|Лекция|Дата|Семинар|Домашнее задание|Ридинг|Дедлайн|
 |-|-|-|-|-|-|-|
-|25.10|[Введение. Извлечение ключевых слов.](Slides/1_Keywords.ipynb)|27.10|[Вспомним синтаксис: UDpipe, stanza](https://github.com/named-entity/hse-nlp/blob/master/4th_year/seminar/1_Syntax_blanked%20(1).ipynb)|[Ключевые слова](hw/hw1.md)|-|7.11 23:59мск|
+|25.10|[Введение. Извлечение ключевых слов.](Slides/1_Keywords.ipynb)|27.10|[Вспомним синтаксис: UDpipe, stanza](seminar/1_Keywords.ipynb)|[Ключевые слова](hw/hw1.md)|-|7.11 23:59мск|
 |1.11|[Извлечение коллокаций](Slides/2_Collocations.ipynb)|3.11|[Извлечение коллокаций](Slides/2_Collocations.ipynb)|-|-|-|
 
 ## Основная литература по курсу<a name="ref"/>

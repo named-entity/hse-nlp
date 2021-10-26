@@ -6,7 +6,7 @@
 ## Описание
 
 Выберите корпус отзывов на товары одной из категорий Amazon:
-http://snap.stanford.edu/data/web-Amazon-links.html
+http://jmcauley.ucsd.edu/data/amazon/
 
 (В низу страницы по ссылке есть код для загрузки данных, можете им воспользоваться)
 

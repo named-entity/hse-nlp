@@ -15,6 +15,7 @@
 |-|-|-|-|-|-|
 |25.10|[Введение. Извлечение ключевых слов.](Slides/1_Keywords.ipynb)|27.10|[Вспомним синтаксис: UDpipe, stanza](seminar/1_Keywords.ipynb)|[Ключевые слова](hw/hw1.md)|7.11 23:59мск|
 |1.11|[Извлечение коллокаций](Slides/2_Collocations.ipynb)|3.11|[Извлечение коллокаций](Slides/2_Collocations.ipynb)|[Дополнительное](Notes/addendum.md)|10.11|
+|8.11|[Named Entity Recognition](Slides/3_NER.ipynb)|10.11|[NER](https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing)|-|-|
 
 ## Основная литература по курсу<a name="ref"/>
 [тут](References.md)

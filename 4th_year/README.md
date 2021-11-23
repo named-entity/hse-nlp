@@ -17,7 +17,7 @@
 |1.11|[Извлечение коллокаций](Slides/2_Collocations.ipynb)|3.11|[Извлечение коллокаций](Slides/2_Collocations.ipynb)|[Дополнительное](Notes/addendum.md)|10.11|
 |8.11|[Named Entity Recognition](Slides/3_NER.ipynb)|-|-|-|-|
 |15.11|[Представление значения: тезаурусы](Slides/4_Thesauri.ipynb)|19.11|[NER](https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing)|[Коллокации+NER](hw/hw2.md)|1.12 23:59мск|
-|22.11|[WSD]()|-|-|-|-|
+|22.11|[WSD](Slides/5_WSD.ipynb)|24.11|[WSD](seminar/5_WSD.ipynb)|-|-|
 
 ## Основная литература по курсу<a name="ref"/>
 [тут](References.md)

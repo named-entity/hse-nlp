@@ -20,7 +20,8 @@
 |22.11|[WSD](Slides/5_WSD.ipynb)|24.11|[WSD](seminar/5_WSD.ipynb)|-|-|
 |-|-|25.11|[Opinion Mining](seminar/6_Opinion_Mining.ipynb)|-|-|
 |29.11|[Sentiment Analysis 1](Slides/7_Sentiment.ipynb)|2.12|[Sentiment Classification](https://colab.research.google.com/drive/1D0JEK_p2LJuF_Hd35QJ2PlujFB87bQUp?usp=sharing)|-|-|
-|1.12|[Sentiment Analysis 2](Slides/8_Sentiment.ipynb)|6.12||[проект](https://docs.google.com/document/d/1eqTKOC3aJzA8TZphVE4Legw7CSGtvSgRpq-YuUkV8HM/edit?usp=sharing)||
+|1.12|[Sentiment Analysis 2](Slides/8_Sentiment.ipynb)|-|-|[проект](https://docs.google.com/document/d/1eqTKOC3aJzA8TZphVE4Legw7CSGtvSgRpq-YuUkV8HM/edit?usp=sharing)||
+|6.12|[Information Extraction](Slides/8-information-extraction.pptx)|8.12|[Aspect-based SA](https://colab.research.google.com/drive/1TfMaNkB-8fjnjZuEdVtgrIwHtL9Bi4x8?usp=sharing)|-|-|
 
 ## Основная литература по курсу<a name="ref"/>
 [тут](References.md)

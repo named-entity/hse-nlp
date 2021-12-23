@@ -23,6 +23,8 @@
 |1.12|[Sentiment Analysis 2](Slides/8_Sentiment.ipynb)|-|-|[проект](https://docs.google.com/document/d/1eqTKOC3aJzA8TZphVE4Legw7CSGtvSgRpq-YuUkV8HM/edit?usp=sharing)||
 |6.12|[Information Extraction](Slides/8-information-extraction.pptx)|8.12|[Aspect-based SA](https://colab.research.google.com/drive/1TfMaNkB-8fjnjZuEdVtgrIwHtL9Bi4x8?usp=sharing)|-|-|
 |-|-|10.12|[Text Summarization](https://colab.research.google.com/drive/1gXbcPqfx7teI7ANTgwx3I52DJdV5Mnwz?usp=sharing)|-|-|
+|13.12|[Машинный перевод](Slides/mt.pptx)|15.12|[Машинный перевод](https://colab.research.google.com/drive/19HMaWE7fH0X-XjwePW3EKXvJm1MOh2EY?usp=sharing)|-|-|
+|15.12|Invited lecture про голосовых помощников|-|-|-|-|
 
 ## Основная литература по курсу<a name="ref"/>
 [тут](References.md)

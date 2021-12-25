@@ -1,3 +1,23 @@
+3976	Whole	ресторане	71	80	neutral
+3976	Whole	ресторанах	198	208	neutral
+3976	Whole	ресторане	256	265	neutral
+3976	Service	Столик бронировали	267	285	neutral
+3976	Service	администратор	322	335	positive
+3976	Service	предварительный заказ	349	370	positive
+3976	Whole	ресторан	413	421	neutral
+3976	Whole	ресторане	476	485	neutral
+3976	Food	горячее блюдо	524	537	neutral
+3976	Food	Меню	564	568	positive
+3976	Service	Обслуживание	688	700	both
+3976	Service	официанты	739	748	positive
+3976	Interior	Интерьер	854	862	positive
+3976	Interior	диваны	880	886	positive
+3976	Interior	музыкальная программа	901	922	positive
+3976	Interior	ведущий	933	940	positive
+3976	Whole	ресторан	1019	1027	positive
+3976	Food	кухня	1038	1043	positive
+3976	Whole	Руководству	1053	1064	positive
+3976	Service	персоналу	1067	1076	positive
 2495	Whole	кафе	42	46	neutral
 2495	Service	поварам	84	91	positive
 2495	Food	блюда	107	112	positive
@@ -8,174 +28,152 @@
 2495	Whole	место	408	413	positive
 2495	Food	кухней	429	435	positive
 2495	Service	персоналом	455	465	positive
-38835	Whole	заведении	51	60	neutral
-38835	Service	сервисом	98	106	positive
-38835	Service	Встретила	108	117	positive
-38835	Service	девушка	136	143	positive
-38835	Service	персонал	179	187	positive
-38835	Service	официант	230	238	positive
-38835	Food	утку по-пекински	343	359	neutral
-38835	Food	салата	363	369	neutral
-38835	Food	свинину в кисло-сладком соусе	371	400	neutral
-38835	Food	свинину	415	422	neutral
-38835	Food	кальян	424	430	neutral
-38835	Food	вина	440	444	neutral
-38835	Food	десерт	452	458	neutral
-38835	Food	Утка	488	492	negative
-38835	Food	объедятся	560	569	positive
-38835	Food	Свинина	633	640	negative
-38835	Whole	ресторанах	677	687	positive
-38835	Whole	ресторан	725	733	negative
-38835	Price	цены	749	753	negative
-38835	Food	меню	772	776	negative
-38835	Food	порции	779	785	negative
-38835	Whole	впечатление	836	847	both
-38835	Service	обслуживание	917	929	positive
-38835	Food	еды	953	956	positive
-6668	Whole	ресторанчик	31	42	positive
-6668	Whole	"Квартиру №55"	262	276	positive
-6668	Food	Накормили	393	402	positive
-6668	Food	напоили	405	412	positive
-6668	Service	сервис	487	493	neutral
-6668	Service	обслуживание	495	507	neutral
-6668	Service	не "обслуживали"	518	534	negative
-6668	Service	встречали	546	555	positive
-6668	Service	Помогли с заказом	577	594	positive
-6668	Service	посоветовали	596	608	positive
-6668	Food	вино	629	633	positive
-6668	Whole	ресторане	686	695	neutral
-6668	Food	пили	753	757	neutral
-6668	Food	чай	758	761	neutral
-6668	Food	Салаты	763	769	neutral
-6668	Food	горячее	805	812	neutral
-6668	Food	вина	847	851	neutral
-6668	Food	пожарские котлеты	878	895	positive
-6668	Food	тушеная телятина	898	914	positive
-6668	Food	буженину на гриле	924	941	positive
-6668	Food	Салаты	957	963	neutral
-6668	Food	Порции	1022	1028	neutral
-6668	Food	десерту	1099	1106	neutral
-6668	Service	официант	1113	1121	neutral
-6668	Food	десерты	1150	1157	positive
-6668	Whole	квартиру	1194	1202	positive
-6668	Service	персоналу	1250	1259	positive
-6668	Whole	ресторана	1261	1270	positive
-6668	Food	ужин	1299	1303	positive
-9662	Whole	Суп-вино	34	42	neutral
-9662	Service	Столик бронировали	45	63	neutral
-9662	Whole	ресторанах	123	133	neutral
-9662	Interior	Интерьер	184	192	positive
-9662	Interior	столики	243	250	positive
-9662	Interior	музыка	259	265	positive
-9662	Food	Меню	293	297	positive
-9662	Price	цене	341	345	positive
-9662	Service	обслуживание	403	415	negative
-9662	Service	обслуживал	446	456	positive
-9662	Service	молодой человек	472	487	positive
-9662	Food	Блюда	519	524	neutral
-9662	Food	напитки	545	552	neutral
-3705	Whole	Макарену	100	108	positive
-3705	Food	Меню	135	139	positive
-3705	Food	блюда	217	222	positive
-3705	Food	Коктейли	224	232	positive
-3705	Food	салаты из языка и морепродуктов	293	324	neutral
-3705	Food	паэлью с курицей и кроликом	327	354	neutral
-3705	Food	порции	382	388	positive
-3705	Food	кальян	417	423	positive
-3705	Service	кальянщик	472	481	positive
-3705	Interior	интерьер	549	557	positive
-3705	Interior	Музыка	588	594	positive
-3705	Interior	атмосферу	683	692	positive
-3705	Service	Персонал	694	702	positive
-3705	Service	накопительную скидку	788	808	positive
-3705	Whole	вечер	865	870	positive
-33520	Whole	ресторане	34	43	neutral
-33520	Service	заказали столик	82	97	neutral
-33520	Whole	провели время	107	120	positive
-33520	Food	кухня	130	135	positive
-33520	Service	обслуживание	138	150	positive
-33520	Interior	атмосфера	161	170	positive
-33520	Service	подарок от шеф-повара	188	209	positive
-33520	Price	цены	271	275	positive
-22970	Interior	интерьер	26	34	positive
-22970	Interior	вид из окна	77	88	positive
-22970	Food	кофе	147	151	neutral
-22970	Food	кухню	187	192	neutral
-22970	Food	съела	231	236	neutral
-22970	Food	тыквенный суп	244	257	positive
-22970	Food	булочки	274	281	positive
-22970	Food	кофе	320	324	neutral
-22970	Food	пиво	362	366	positive
-22970	Service	официантам	396	406	positive
-22970	Service	обслуживанием	518	531	neutral
-22970	Service	обслужили	537	546	positive
-35867	Whole	ресторане "Фаворит"	52	71	neutral
-35867	Whole	места	122	127	neutral
-35867	Food	меню	140	144	positive
-35867	Food	выпечка	173	180	positive
-35867	Service	сервис	194	200	positive
-35867	Interior	интерьер	247	255	positive
-35867	Interior	атмосферу	300	309	positive
-35867	Price	цена	322	326	positive
-35867	Service	персоналу	390	399	positive
-35867	Service	менеджера	440	449	positive
-35867	Food	кухне	527	532	neutral
-35867	Whole	ресторане	541	550	neutral
-35867	Food	блюд	570	574	neutral
-35867	Food	напитков	576	584	neutral
-35867	Food	выпечки	586	593	neutral
-35867	Interior	украшением зала	596	611	positive
-35867	Service	организовала	678	690	positive
-23858	Whole	заведении	22	31	neutral
-23858	Whole	посещений	90	99	positive
-23858	Service	персонал	143	151	positive
-23858	Food	пива	167	171	positive
-23858	Service	выполнение заказа	181	198	positive
-23858	Food	пива	228	232	positive
-23858	Price	цене	247	251	positive
-23858	Food	вкуса	264	269	positive
-23858	Service	Столик заказал	271	285	neutral
-23858	Service	заказать	383	391	neutral
-23858	Food	пива	395	399	neutral
-23858	Food	пива	472	476	negative
-23858	Food	пиво	614	618	neutral
-23858	Service	официантку	636	646	negative
-23858	Service	заказать	713	721	neutral
-23858	Food	пива	722	726	neutral
-23858	Service	официатка	782	791	neutral
-23858	Whole	заведение	868	877	negative
-23858	Whole	места	929	934	positive
-23858	Service	обслуживающий персонал	970	992	positive
-23858	Whole	Глобуса	1073	1080	negative
-18518	Whole	ресторане	15	24	neutral
-18518	Service	Обслуживанием	33	46	positive
-18518	Service	Официанты	122	131	positive
-18518	Food	Порции	210	216	positive
-18518	Whole	ресторан	352	360	positive
-18518	Food	Закуски	402	409	neutral
-18518	Food	салаты	412	418	neutral
-18518	Food	горячее	438	445	neutral
-18518	Food	мороженое	497	506	neutral
-18518	Food	мороженое	528	537	positive
-6376	Whole	место	35	40	positive
-6376	Whole	ресторан	119	127	positive
-6376	Whole	ресторанов	239	249	neutral
-6376	Food	блюд	267	271	neutral
-6376	Food	кухня	318	323	positive
-6376	Service	обслуживанием	338	351	positive
-6376	Food	меню	355	359	positive
-6376	Service	Обслуживала	434	445	positive
-6376	Service	официантка	459	469	positive
-6376	Food	блюда	526	531	neutral
-6376	Food	еде	603	606	neutral
-6376	Service	посоветовала	609	621	positive
-6376	Interior	интерьере	676	685	positive
-6376	Interior	музыка	734	740	positive
-6376	Interior	караоке-программа	758	775	positive
-6376	Food	блюд	847	851	neutral
-6376	Food	салат из тунца	863	877	neutral
-6376	Food	салат из лисичек с кроличьей печенью	879	915	neutral
-6376	Food	салат из лосося	935	950	positive
+2107	Whole	заведение	21	30	positive
+2107	Interior	втором этаже	81	93	neutral
+2107	Service	официанта	170	179	negative
+2107	Service	пледы	203	208	negative
+2107	Food	Чай	210	213	neutral
+2107	Service	принесли	276	284	negative
+2107	Food	салат	287	292	neutral
+2107	Service	принесли	314	322	negative
+2107	Food	горячее	325	332	neutral
+2107	Food	блюдо	446	451	neutral
+2107	Service	заказа	491	497	negative
+2107	Food	овощи, приготовленные на углях	499	529	negative
+2107	Food	Порции	610	616	negative
+33591	Whole	кафе	9	13	positive
+33591	Food	еда	107	110	positive
+33591	Food	блюда	120	125	positive
+33591	Interior	обстановка	127	137	positive
+33591	Service	администратор	148	161	positive
+33591	Whole	кафе	191	195	positive
+33591	Price	цены	210	214	positive
+33591	Food	хачапури с сыром	349	365	positive
+33591	Food	лосось	375	381	positive
+33591	Food	кусок	383	388	positive
+33591	Food	еды	437	440	positive
+33591	Interior	антураж	562	569	negative
+33591	Interior	верхнем этаже	645	658	positive
+33591	Interior	караоке	700	707	positive
+33591	Food	кальян	730	736	positive
+33591	Whole	место	764	769	positive
+33591	Interior	обстановке	889	899	positive
+34956	Whole	ресторанчик	99	110	neutral
+34956	Food	кухня	175	180	positive
+34956	Food	котлетки из лосося с пюре	200	225	neutral
+34956	Food	канадский ролл	228	242	neutral
+34956	Whole	заведения	289	298	positive
+34956	Food	котлетки	302	310	neutral
+34956	Food	роллы	313	318	neutral
+34956	Food	Ролл	429	433	positive
+34956	Food	блюда	492	497	negative
+34956	Whole	сетевых заведений японской кухни	524	556	negative
+34956	Food	суши	629	633	neutral
+34956	Service	официанту	682	691	neutral
+34956	Service	шеф-повар	717	726	neutral
+34956	Food	меню	729	733	neutral
+34956	Food	котлетки из лосося и креветок	793	822	positive
+34956	Food	блюда	883	888	positive
+34956	Food	суп из двух рыб	903	918	positive
+34956	Food	стейк из лосося	920	935	positive
+34956	Food	бефстроганов с пюре	938	957	positive
+34956	Interior	Интерьер	959	967	positive
+34956	Service	обслуживание	1018	1030	positive
+34956	Service	администраторы	1163	1177	neutral
+34956	Whole	ресторанов	1189	1199	neutral
+34956	Food	котлетки	1253	1261	positive
+36512	Whole	ресторан	50	58	positive
+36512	Whole	место	111	116	positive
+36512	Service	ресторана	215	224	positive
+36512	Interior	атмосфера	235	244	positive
+36512	Interior	интерьер	286	294	positive
+36512	Interior	кресла	311	317	positive
+36512	Interior	диванчики	320	329	positive
+36512	Interior	музыка	350	356	positive
+36512	Food	меню	367	371	positive
+36512	Food	блюда	388	393	positive
+36512	Service	персонал	420	428	positive
+36512	Service	персоналу	461	470	positive
+36512	Service	отношение	487	496	positive
+36512	Interior	декорированные	539	553	positive
+36512	Interior	украшенные	556	566	positive
+36512	Interior	свадебный зал	567	580	positive
+36512	Interior	столы	583	588	positive
+36512	Service	шефу	609	613	positive
+36512	Service	поварам	621	628	positive
+36512	Food	блюда	668	673	positive
+36512	Service	управляющей рестораном	739	761	positive
+36512	Food	меню	831	835	neutral
+36512	Interior	декорировании	839	852	positive
+36512	Interior	свадебного зала	853	868	positive
+36512	Service	организовала	880	892	positive
+36512	Whole	ресторан	1021	1029	positive
+36512	Food	покушать	1030	1038	neutral
+36512	Whole	Ресторан	1066	1074	neutral
+36926	Whole	ресторане	37	46	neutral
+36926	Whole	место	81	86	positive
+36926	Food	кухня	99	104	positive
+36926	Interior	интерьер	113	121	positive
+36926	Service	официанты	140	149	positive
+36926	Interior	атмосфера	171	180	positive
+36926	Food	порции	238	244	positive
+36926	Price	ценник	281	287	positive
+36926	Food	еда	303	306	positive
+36926	Price	деньги	320	326	positive
+36926	Food	омлет по-баварски	365	382	neutral
+36926	Food	салат с теплой куриной печенью	390	420	neutral
+36926	Food	пиво	428	432	neutral
+36926	Food	белого вина	453	464	neutral
+13823	Whole	"аппетит"	7	16	neutral
+13823	Service	встретил	138	146	neutral
+13823	Service	менеджер	147	155	neutral
+13823	Service	девушка	179	186	neutral
+13823	Service	проводила к столу	188	205	neutral
+13823	Service	дала меню	208	217	neutral
+13823	Service	официантка	242	252	neutral
+13823	Service	приняла заказ	254	267	neutral
+13823	Whole	ресторан	337	345	neutral
+13823	Service	заведения	431	440	neutral
+13823	Food	Бизнес ланч	495	506	positive
+13823	Price	цене	582	586	positive
+13823	Whole	место	610	615	positive
+13823	Food	меню	639	643	positive
+13823	Price	цены	656	660	positive
+13823	Service	обслуживания	680	692	positive
+13823	Whole	заведению	735	744	positive
+29395	Whole	Ресторан	0	8	positive
+29395	Whole	ресторане	89	98	neutral
+29395	Food	Кухня	204	209	positive
+29395	Service	обслуживание	225	237	positive
+29395	Whole	ресторанах	302	312	negative
+29395	Food	блюда	343	348	neutral
+29395	Food	шампанское	350	360	neutral
+29395	Food	шампанское	403	413	positive
+29395	Food	кушали	510	516	positive
+29395	Food	кушали	518	524	positive
+29395	Food	едой	555	559	positive
+29395	Whole	ресторане	632	641	neutral
+29395	Interior	музыка	657	663	positive
+29395	Whole	ресторан	870	878	neutral
+29395	Whole	"ТБИЛИСО"	932	941	positive
+34045	Whole	кафе	34	38	positive
+34045	Food	Кухня	98	103	positive
+34045	Service	Обслуживание	197	209	positive
+34045	Service	персонал	229	237	positive
+34045	Whole	кафе	305	309	positive
+34045	Food	кофе	347	351	neutral
+34045	Interior	обстановке	364	374	positive
+28083	Whole	ресторан	12	20	neutral
+28083	Whole	паулайнере	174	184	positive
+28083	Service	обслуживание	228	240	positive
+28083	Food	кухня	251	256	positive
+28083	Food	пиво	262	266	positive
+28083	Service	заказывали	410	420	neutral
+28083	Service	персонал	437	445	positive
+28083	Service	обслуживала	492	503	positive
+28083	Service	девушка Мария	515	528	positive
+28083	Service	девушка	592	599	positive
+28083	Food	горячее	832	839	neutral
 11421	Whole	ресторане	12	21	positive
 11421	Food	Ужинали	72	79	neutral
 11421	Interior	2 этаже	93	100	neutral
@@ -188,21 +186,20 @@
 11421	Interior	музыканты	353	362	neutral
 11421	Interior	музыка	385	391	positive
 11421	Whole	ресторан	427	435	positive
-31963	Whole	ресторан	12	20	neutral
-31963	Interior	интерьер	45	53	neutral
-31963	Service	охранник	55	63	neutral
-31963	Service	администратор	78	91	positive
-31963	Service	официанта	168	177	neutral
-31963	Food	еду	229	232	neutral
-31963	Interior	Обстановка в ресторане	254	276	positive
-31963	Food	кухню	323	328	neutral
-31963	Food	блюда	359	364	positive
-31963	Food	повара	402	408	both
-31963	Whole	ресторане	518	527	neutral
-31963	Food	горячее	567	574	both
-31963	Food	мясное блюдо	649	661	positive
-31963	Food	мясо	732	736	negative
-31963	Whole	заведение	836	845	positive
+27375	Whole	ресторанчик	43	54	positive
+27375	Food	пиво	97	101	positive
+27375	Food	суджук	125	131	neutral
+27375	Food	закуски	146	153	neutral
+27375	Interior	атмосфера	158	167	positive
+27375	Service	персонал	181	189	positive
+27375	Service	девушка	203	210	positive
+27375	Service	администратор ресторана	221	244	positive
+27375	Service	обслуживание	292	304	positive
+27375	Service	подход к посетителям	318	338	positive
+27375	Service	отношение к клиентам	353	373	positive
+27375	Service	сервиса	425	432	positive
+27375	Whole	заведений	481	490	neutral
+27375	Whole	места	557	562	positive
 18780	Food	съесть	38	44	neutral
 18780	Food	ролл	53	57	neutral
 18780	Food	роллы	128	133	positive
@@ -224,90 +221,52 @@
 18780	Whole	место	765	770	positive
 18780	Food	еды	803	806	positive
 18780	Service	обслуживания	809	821	positive
-37473	Whole	заведения	43	52	neutral
-37473	Service	заказать столик	60	75	neutral
-37473	Whole	ресторан	239	247	neutral
-37473	Food	пили	360	364	negative
-37473	Food	пиво	365	369	neutral
-37473	Food	пили	384	388	neutral
-37473	Food	красное вино	389	401	positive
-37473	Food	роллы	426	431	neutral
-37473	Food	филадельфию	446	457	neutral
-37473	Food	острые	460	466	neutral
-37473	Food	запеченные	467	477	neutral
-37473	Food	супы	493	497	positive
-37473	Food	горячее	524	531	neutral
-37473	Food	перечный стейк	539	553	positive
-37473	Interior	живой музыки	729	741	positive
-37473	Whole	место	767	772	positive
-37473	Price	деньги	792	798	positive
-35486	Whole	ресторана	186	195	negative
-35486	Whole	паба	196	200	negative
-35486	Service	Встретила	224	233	negative
-35486	Service	обслуживала	236	247	negative
-35486	Service	официантка	273	283	negative
-35486	Food	блюд из меню	294	306	negative
-35486	Service	официантка	347	357	negative
-35486	Food	сырные палочки	431	445	neutral
-35486	Service	офицантка	474	483	neutral
-35486	Food	палочки	547	554	negative
-35486	Food	палочек	565	572	negative
-35486	Whole	место	639	644	positive
-35486	Food	выпить	656	662	neutral
-35486	Food	пиво	663	667	neutral
-35486	Food	цезарь с креветками	719	738	negative
-35486	Food	курицы	740	746	negative
-35486	Service	официантка	831	841	negative
-35486	Service	персонал	1059	1067	positive
-35486	Food	блюда	1077	1082	positive
-5037	Interior	уютное	49	55	positive
-5037	Whole	место	56	61	positive
-5037	Service	обслуживание	82	94	positive
-5037	Food	пиво	113	117	positive
-5037	Food	кухне	167	172	neutral
-5037	Food	кусок свинины	269	282	positive
-5037	Whole	место	332	337	positive
-5037	Interior	второй этаж	391	402	positive
-5037	Food	пива	439	443	positive
-5037	Whole	пивном ресторане	481	497	neutral
-5037	Food	ПИВО	504	508	neutral
-5037	Food	хлебные греночки с сыром	578	602	positive
-5037	Food	сушки с перчиком	613	629	positive
-5037	Food	десертик	795	803	positive
-5037	Food	Карпаччо из ананаса	817	836	positive
-5037	Food	манго в имбирном соусе	839	861	positive
-5037	Service	отношении к посетителям	919	942	positive
-5037	Food	сырные шарики	975	988	neutral
-5037	Service	официантка	1012	1022	positive
-5037	Food	закуску	1059	1066	positive
-5037	Whole	ЗАВЕДЕНИЯ	1075	1084	positive
-5037	Food	сырными шариками	1093	1109	negative
-5037	Whole	заведения	1170	1179	positive
-11825	Whole	ресторане	58	67	neutral
-11825	Food	пиццу на тонком тесте	132	153	positive
-11825	Food	ела	154	157	neutral
-11825	Whole	Da Albertone	169	181	positive
-11825	Whole	место	236	241	positive
-11825	Service	встретил	384	392	positive
-11825	Service	официант	393	401	positive
-11825	Service	гардеробщик	404	415	positive
-11825	Service	раздели-проводили	425	442	positive
-11825	Interior	Зал	444	447	neutral
-11825	Food	пасту Карбонару	492	507	neutral
-11825	Food	ролл Филадельфияи	510	527	neutral
-11825	Food	десерт	534	540	neutral
-11825	Food	Тирамису	565	573	neutral
-11825	Food	Карбонара	575	584	positive
-11825	Food	паста	625	630	positive
-11825	Food	Филадельфию	670	681	positive
-11825	Food	лосося-филадельфии-чуток риса	748	777	positive
-11825	Food	Десерт Тирамису	808	823	positive
-11825	Interior	Атмосфера	873	882	positive
-11825	Interior	спокойное	913	922	positive
-11825	Whole	место	923	928	positive
-11825	Interior	музыка	938	944	positive
-11825	Interior	дамской комнате	988	1003	negative
-11825	Interior	убираются	1045	1054	negative
+30744	Service	заказывали заранее	75	93	neutral
+30744	Service	заказ приносили	101	116	negative
+30744	Food	пивом	150	155	neutral
+30744	Food	Гриль	177	182	positive
+30744	Food	пиво	199	203	positive
+30744	Food	вина	226	230	negative
+30744	Food	пива	257	261	negative
+30744	Service	сервиса	311	318	positive
+30744	Food	кухни	323	328	positive
+30744	Interior	атмосферы	334	343	positive
+30744	Interior	музыка	381	387	positive
+37819	Whole	ресторан	21	29	neutral
+37819	Whole	кафе "Кон-Коронель	93	111	neutral
+37819	Whole	месте	214	219	positive
+37819	Interior	шоу программа	282	295	positive
+37819	Interior	ведущая	298	305	positive
+37819	Interior	атмосферу	398	407	positive
+37819	Food	кухни	418	423	positive
+37819	Service	обслуживания	426	438	positive
+37819	Service	официанты	464	473	positive
+37819	Food	банкетного меню	533	548	positive
+37819	Service	администратору Ирине	580	600	positive
+37819	Whole	ресторану	745	754	positive
+37819	Service	персоналу	763	772	positive
+37819	Whole	выбора места	820	832	neutral
+37819	Whole	Кон-Коронель	883	895	positive
+7824	Whole	ресторане	19	28	neutral
+7824	Whole	месте	96	101	positive
+7824	Food	кухней	112	118	positive
+7824	Service	заказан столик	124	138	neutral
+7824	Interior	2 этаже	153	160	neutral
+7824	Whole	заведении	310	319	negative
+7824	Food	салатов	374	381	negative
+7824	Food	салата цезарь	391	404	negative
+7824	Food	соус	425	429	negative
+7824	Food	курица	441	447	negative
+7824	Food	салат с авокадо	468	483	both
+7824	Food	горячего	519	527	neutral
+7824	Food	манты	532	537	negative
+7824	Food	десерты	646	653	positive
+7824	Food	Пирожные	655	663	positive
+7824	Food	торт из шоколада	688	704	positive
+7824	Whole	ресторана	719	728	negative
+7824	Price	оставили 10 тысяч	758	775	neutral
+7824	Food	еда	777	780	neutral
+7824	Food	алкогольному коктейлю	804	825	neutral
 19503	Whole	заведение	34	43	neutral
 19503	Service	обслуживание	67	79	positive
 19503	Service	администратор Екатерина	134	157	positive
@@ -323,97 +282,44 @@
 19503	Service	обслуживающий персонал	406	428	positive
 19503	Whole	"Чердак Художника"	470	488	positive
 19503	Whole	местом	512	518	positive
-33693	Whole	ресторанчик	21	32	positive
-33693	Service	обслуживанию	62	74	negative
-33693	Service	официанта	102	111	negative
-33693	Interior	Интерьер	120	128	neutral
-33693	Food	блюд	167	171	neutral
-33693	Food	томатный суп	183	195	neutral
-33693	Food	ризотто с белыми грибами	197	221	neutral
-33693	Food	пасту с креветками	223	241	neutral
-33693	Food	Цезарь	244	250	neutral
-33693	Food	Порции	252	258	positive
-33693	Food	Цезарь с курицей	302	318	negative
-33693	Food	соус	336	340	negative
-33693	Whole	место	381	386	positive
-33693	Food	трапезы итальянской кухни	399	424	positive
-33693	Price	цене	438	442	positive
-12203	Whole	ресторан	15	23	neutral
-12203	Service	бронирования столика по телефону	145	177	neutral
-12203	Service	администратор	188	201	positive
-12203	Service	столик забронировал	202	221	positive
-12203	Service	встретила	275	284	neutral
-12203	Service	девушка	297	304	positive
-12203	Service	проводила до нашего столика	306	333	neutral
-12203	Service	вручила меню	336	348	neutral
-12203	Interior	диванчиком	380	390	positive
-12203	Food	еда	503	506	positive
-12203	Food	сервировку блюд	551	566	positive
-12203	Food	горячего	576	584	neutral
-12203	Service	официант	586	594	positive
-12203	Food	десерт	618	624	positive
-12203	Whole	заведении	680	689	positive
-12203	Food	поужинали	735	744	positive
-12203	Interior	обтановка	759	768	positive
-12203	Price	чек	799	802	neutral
-12203	Food	ужина	847	852	neutral
-12203	Whole	заведение	910	919	positive
-37611	Whole	ресторанчик	13	24	neutral
-37611	Food	салат с куриной печенью	127	150	positive
-37611	Food	запеченные суши	152	167	positive
-37611	Food	тирамису	170	178	positive
-37611	Food	блюд	233	237	positive
-37611	Interior	Интерьер	240	248	neutral
-37611	Service	Обслуживание	329	341	both
-37611	Service	обслуживание	472	484	positive
-37611	Whole	Ресторану	532	541	positive
-37611	Food	кухню	587	592	positive
-37611	Price	цены	620	624	positive
-2692	Whole	ресторанов китайской кухни	24	50	neutral
-2692	Whole	Тан Жен	51	58	positive
-2692	Whole	место	93	98	positive
-2692	Food	вкусно	114	120	positive
-2692	Food	поесть	130	136	positive
-2692	Interior	интерьера	176	185	positive
-2692	Food	меню	200	204	positive
-2692	Food	кухню	232	237	positive
-2692	Service	обслуживание	262	274	positive
-2692	Service	ресторан	290	298	positive
-2692	Food	качестве еды	435	447	positive
-2692	Service	официанта	544	553	positive
-2692	Food	первое блюдо	681	693	neutral
-2692	Food	ВКУСНО	740	746	positive
-36483	Whole	заведении	46	55	negative
-36483	Service	обслуживание	118	130	positive
-36483	Service	персонал	144	152	positive
-36483	Price	цены	168	172	positive
-36483	Food	еда	188	191	positive
-36483	Food	порции	202	208	positive
-36483	Interior	интерьер	223	231	positive
-36483	Interior	какаоке	274	281	positive
-36483	Food	алкоголю	349	357	positive
-36483	Food	вино	375	379	positive
-36483	Food	шампанское	381	391	positive
-36483	Food	водку	394	399	positive
-36483	Service	персоналу	507	516	positive
-1751	Whole	Чаплин-холл	16	27	neutral
-1751	Whole	Заведение	53	62	positive
-1751	Whole	ресторан	89	97	neutral
-1751	Food	еду	182	185	neutral
-1751	Food	напитки	188	195	neutral
-1751	Interior	Зал	197	200	positive
-1751	Interior	места	244	249	positive
-1751	Interior	столики	273	280	positive
-1751	Food	Меню	320	324	positive
-1751	Food	меню японской кухни	366	385	neutral
-1751	Food	блюда	474	479	neutral
-1751	Food	сельдь под шубой…с крабом	525	550	neutral
-1751	Food	палтуса запеченного	607	626	positive
-1751	Food	палтуса	729	736	negative
-1751	Food	Салат грибной	758	771	positive
-1751	Food	порция	784	790	positive
-1751	Food	Кофе-десерт	802	813	positive
-1751	Whole	месте	899	904	positive
+1434	Whole	ресторан	72	80	neutral
+1434	Interior	интерьер	140	148	positive
+1434	Whole	место	223	228	positive
+1434	Service	Обслуживающий персонал	230	252	positive
+1434	Service	официанту	276	285	positive
+1434	Food	азиатской такой кухней	326	348	neutral
+1434	Food	кокосовый суп с морепродуктами	474	504	neutral
+1434	Food	блюда	602	607	positive
+1434	Food	салат с апельсинами, рукколой и лососем	626	665	neutral
+1434	Food	десерт	672	678	neutral
+1434	Food	манговый мусс	688	701	neutral
+1434	Food	лимонный десерт	704	719	neutral
+1434	Whole	заведение	809	818	positive
+2073	Whole	"ресторане"	30	41	neutral
+2073	Whole	заведению	97	106	neutral
+2073	Whole	вечер	116	121	negative
+2073	Whole	месте	203	208	neutral
+2073	Interior	интерьер	223	231	positive
+2073	Food	кухня	242	247	positive
+2073	Service	обслуживания	314	326	negative
+2073	Service	официантка	377	387	negative
+2073	Food	вино	537	541	neutral
+2073	Food	оливки	769	775	neutral
+2073	Interior	живая музыка	899	911	neutral
+2073	Whole	ресторан	1179	1187	negative
+14568	Whole	кафе	8	12	positive
+14568	Interior	интерьер	118	126	positive
+14568	Interior	занавесочки	153	164	positive
+14568	Food	еде	254	257	positive
+14568	Food	судака с овощами и рисом	312	336	positive
+14568	Food	кофе Борджиа	370	382	positive
+14568	Food	восточных салатов	432	449	positive
+14568	Food	Американо	529	538	positive
+14568	Service	сервис	605	611	negative
+14568	Whole	месту	728	733	both
+14568	Whole	местечко	788	796	positive
+14568	Price	ценами	819	825	positive
+14568	Interior	обстановкой	846	857	positive
 13100	Service	заказал столик	69	83	neutral
 13100	Service	девушка хостесс	186	201	positive
 13100	Service	встретила	202	211	positive
@@ -436,51 +342,79 @@
 13100	Interior	Интерьер	966	974	positive
 13100	Interior	туалет	999	1005	positive
 13100	Food	еды	1091	1094	positive
-9036	Whole	ресторан	46	54	neutral
-9036	Service	встретил	136	144	positive
-9036	Service	гардеробщик	157	168	positive
-9036	Service	девушка	297	304	positive
-9036	Service	официант	356	364	positive
-9036	Service	молодой человек	388	403	positive
-9036	Service	официант	471	479	positive
-9036	Food	салат из их меню с "семгой горячего копчения"	631	676	positive
-9036	Food	хлебная тарелка	724	739	positive
-9036	Food	хлеб	814	818	positive
-9036	Food	вкус	853	857	positive
-9036	Food	Горячее	869	876	neutral
-9036	Food	десерта	902	909	positive
-9036	Food	"два шоколада"	937	951	positive
-9036	Food	кофе	1015	1019	positive
-9036	Whole	ресторан	1058	1066	positive
-9036	Interior	атмосфера	1085	1094	positive
-9036	Food	кухня	1103	1108	positive
-9036	Service	обслуживание	1145	1157	positive
-35613	Service	обслуживание	21	33	negative
-35613	Service	заказали	55	63	neutral
-35613	Service	официанты	210	219	negative
-35613	Service	гостями	604	611	negative
-35613	Service	сервиса	663	670	negative
-35613	Food	кухни	687	692	positive
-35613	Interior	интерьера	703	712	positive
-37220	Food	Кухня	0	5	positive
-37220	Food	поварам	21	28	positive
-37220	Interior	интерьер	30	38	positive
-37220	Service	девушки	143	150	negative
-37220	Service	официанткой	176	187	negative
-37220	Service	менеджер	204	212	negative
-37220	Whole	тан жен	575	582	both
-37220	Food	кухню	589	594	positive
-37220	Service	гостями	711	718	negative
-37220	Service	менеджер	746	754	negative
-1515	Whole	ресторан МИСО	20	33	positive
-1515	Food	обедать	66	73	positive
-1515	Food	кухней	170	176	positive
-1515	Service	обслуживанием	179	192	positive
-1515	Interior	интерьер	205	213	positive
-1515	Interior	атмосфера	216	225	positive
-1515	Food	ланч	246	250	negative
-1515	Food	кусочек мяса	331	343	negative
-1515	Whole	заведение	577	586	negative
+27841	Food	кофе	36	40	neutral
+27841	Service	обслуживающим персоналом	71	95	positive
+27841	Food	Кофе	161	165	positive
+27841	Food	тортики	175	182	positive
+27841	Food	пивка	251	256	neutral
+27841	Food	пива	264	268	negative
+27841	Whole	кондитерская	317	329	neutral
+27841	Food	напиток	352	359	positive
+27841	Food	Тиммерманс	377	387	positive
+27841	Food	Невское	390	397	positive
+27841	Food	закусочки	417	426	positive
+27841	Food	жаренные крылышки	430	447	positive
+27841	Food	кальмары	460	468	positive
+27841	Food	колечками лука	488	502	neutral
+27841	Food	соуса	515	520	negative
+27841	Food	соуса	532	537	negative
+27841	Service	девушка-официантка	573	591	positive
+27841	Food	соусе	608	613	positive
+27841	Interior	Интерьер	654	662	positive
+27841	Service	Обслуживание	750	762	positive
+27841	Whole	местечко	839	847	positive
+31004	Interior	Интерьер	271	279	positive
+31004	Food	блюда	303	308	neutral
+31004	Food	курицы	343	349	neutral
+31004	Food	конину	375	381	neutral
+31004	Food	Горячее	384	391	negative
+31004	Food	конину	471	477	negative
+31004	Food	блюда	526	531	negative
+31004	Food	соли	603	607	negative
+31004	Food	специй	617	623	negative
+31004	Food	пресная	636	643	negative
+31004	Food	еда	644	647	negative
+31004	Service	официанты	688	697	negative
+31004	Service	Сервировано	758	769	negative
+31004	Food	Доесть	784	790	negative
+31004	Food	салат из зелени и овощей	851	875	positive
+31004	Price	Цены	908	912	negative
+31004	Food	кухне	943	948	negative
+35635	Whole	ресторан 'Хутор Водограй'	99	124	neutral
+35635	Food	кухня	150	155	positive
+35635	Service	обслуживание	159	171	positive
+35635	Interior	атмосфера	173	182	positive
+35635	Interior	настроение	185	195	positive
+35635	Interior	украинский колорит	229	247	positive
+35635	Service	руководителей	631	644	negative
+35635	Service	официант	773	781	negative
+35635	Food	поели	901	906	negative
+35635	Food	пирожков	959	967	positive
+35635	Whole	рестораном	1206	1216	negative
+35635	Whole	ресторан	1284	1292	positive
+13186	Whole	ресторане Волна	30	45	neutral
+13186	Service	девушка	72	79	positive
+13186	Service	предложила столики	80	98	positive
+13186	Food	вина	125	129	neutral
+13186	Food	вином	168	173	neutral
+13186	Service	официанты	218	227	negative
+13186	Food	вино	248	252	negative
+13186	Food	бытылочку вина	290	304	neutral
+13186	Food	салат из рукколы с печеным картофелем	330	367	neutral
+13186	Food	гребешки со спаржей	370	389	neutral
+13186	Service	комплимент от шеф-повара	430	454	positive
+13186	Food	салат	529	534	both
+13186	Service	ждала еще минут	567	582	negative
+13186	Interior	атмосфера	629	638	both
+797	Whole	ресторане	7	16	neutral
+797	Food	выпить	89	95	neutral
+797	Food	чаю	96	99	neutral
+797	Food	вина	102	106	neutral
+797	Service	официантка	143	153	negative
+797	Whole	ресторане	287	296	positive
+797	Service	официантка	313	323	negative
+797	Service	поработают	550	560	negative
+797	Service	Чаевые	645	651	negative
 22386	Price	Ценник	86	92	negative
 22386	Food	соленья	163	170	positive
 22386	Food	кармашки с грибами и рыбой	172	198	positive
@@ -490,21 +424,12 @@
 22386	Food	угря	269	273	positive
 22386	Service	официантки	348	358	negative
 22386	Service	официантка	589	599	negative
-3906	Interior	атмосфере	131	140	positive
-3906	Interior	интерьер	143	151	positive
-3906	Service	персонал	153	161	positive
-3906	Interior	музыкальное сопровождение	163	188	positive
-3906	Interior	свечи- цветы	191	203	positive
-3906	Food	кухне	258	263	positive
-3906	Food	подача мяса	311	322	positive
-3906	Food	холодных закусок	325	341	positive
-3906	Food	десертов	343	351	positive
-3906	Service	Комплимент от ресторана	357	380	positive
-3906	Food	вазочки с виноградом	388	408	positive
-3906	Food	Постное меню	480	492	both
-3906	Food	вкус блюд	551	560	positive
-3906	Whole	заведения	583	592	positive
-3906	Whole	место	668	673	positive
+27040	Service	обслуживание	124	136	positive
+27040	Service	официант	159	167	positive
+27040	Service	кальян	259	265	positive
+27040	Food	закуски-крылья	284	298	positive
+27040	Food	сырные шарики	300	313	positive
+27040	Food	фрукты	315	321	positive
 32442	Whole	ресторане «Кирочный Двор»	19	44	neutral
 32442	Whole	сотрудникам данного заведения	88	117	positive
 32442	Interior	зале	159	163	positive
@@ -515,22 +440,21 @@
 32442	Food	Меню	347	351	neutral
 32442	Food	алкоголь	369	377	neutral
 32442	Food	выбор блюд	438	448	positive
-6880	Whole	ресторане	20	29	neutral
-6880	Service	персонала	145	154	negative
-6880	Service	бармена	174	181	neutral
-6880	Food	шашлыки из баранины на кости и мякоти	416	453	neutral
-6880	Food	зелень	455	461	neutral
-6880	Food	свежие овощи	463	475	neutral
-6880	Food	картофель айдахо	477	493	neutral
-6880	Food	соусы к мясу и картофелю	495	519	neutral
-6880	Food	чай	521	524	neutral
-6880	Food	кофе	526	530	neutral
-6880	Service	Готовили	532	540	negative
-6880	Food	Мясо	701	705	positive
-6880	Food	прожаренное	727	738	positive
-6880	Food	меню	944	948	positive
-6880	Service	сервис	1097	1103	negative
-6880	Service	персонала	1246	1255	negative
+33252	Whole	Паберти	35	42	neutral
+33252	Service	Заказывал	44	53	neutral
+33252	Food	пивоварни	131	140	positive
+33252	Food	Пиво	212	216	positive
+33252	Food	свежесваренное пиво	306	325	positive
+33252	Food	кухня	426	431	positive
+33252	Food	закуски	483	490	positive
+33252	Food	горячее	494	501	positive
+33252	Service	стол обслуживали	576	592	positive
+33252	Service	официантов	609	619	positive
+33252	Service	блюда и напитки выносились	633	659	positive
+33252	Service	обслуживание	791	803	positive
+33252	Interior	Развлекательная программа ресторана	833	868	positive
+33252	Interior	потанцевать	918	929	positive
+33252	Service	персоналу Паберти	1069	1086	positive
 36085	Whole	заведении	88	97	positive
 36085	Whole	кафе	187	191	positive
 36085	Interior	интерьер	209	217	positive
@@ -538,38 +462,6 @@
 36085	Service	персонал	310	318	positive
 36085	Whole	место	455	460	positive
 36085	Whole	Mon Petit Cafe	470	484	positive
-33816	Interior	интерьер зала	96	109	positive
-33816	Interior	атмосфера	154	163	positive
-33816	Service	обслуживание	212	224	positive
-33816	Food	кухни	238	243	positive
-33816	Price	Соотношение цена/качество	261	286	positive
-33816	Interior	Живая музыка	297	309	positive
-33816	Interior	девушка-певица	322	336	positive
-33816	Interior	потанцевали	358	369	positive
-33816	Whole	провели время	420	433	positive
-4308	Whole	ресторан	31	39	negative
-4308	Whole	ресторан	174	182	positive
-4308	Interior	Интерьер	205	213	positive
-4308	Food	кухня	215	220	positive
-4308	Service	персонал	222	230	positive
-4308	Service	заказ	286	291	positive
-4308	Food	порции	294	300	positive
-4308	Interior	Музыка	339	345	positive
-4308	Service	официантка	358	368	positive
-4308	Food	салата	403	409	positive
-4308	Food	рыбу	411	415	positive
-4308	Food	курицу	417	423	positive
-4308	Food	свинину	425	432	positive
-4308	Food	закусывая	434	443	positive
-4308	Food	ушами	444	449	positive
-4308	Food	чипсами	452	459	positive
-4308	Food	запивая	464	471	positive
-4308	Food	пивом	472	477	positive
-4308	Food	морсами	479	486	positive
-4308	Food	соком	489	494	positive
-4308	Whole	ресторан	724	732	positive
-4308	Food	кухня	748	753	positive
-4308	Service	обслуживание	756	768	positive
 11770	Whole	пабе	16	20	positive
 11770	Food	пиво	49	53	positive
 11770	Food	сырные палочки	55	69	positive
@@ -593,24 +485,6 @@
 11770	Service	Официанты	938	947	positive
 11770	Service	обстановкая	976	987	positive
 11770	Whole	ресторан	1007	1015	positive
-29298	Whole	ресторан	48	56	positive
-29298	Service	обслуживание	58	70	positive
-29298	Service	официанты	85	94	positive
-29298	Service	администраторы	97	111	positive
-29298	Interior	охраны	144	150	neutral
-29298	Whole	ресторане	266	275	neutral
-29298	Interior	потанцевать	383	394	positive
-29298	Whole	провести время	407	421	positive
-29298	Interior	Публика	423	430	positive
-29298	Price	цены	442	446	positive
-29298	Food	пивоварня	470	479	positive
-29298	Food	пшеничное и ячменное пиво	500	525	positive
-29298	Food	закуски	527	534	positive
-29298	Food	сырная и мясная тарелка	564	587	positive
-29298	Food	молочные и алкогольные коктейли	598	629	positive
-29298	Whole	заведение	665	674	positive
-29298	Service	бронировать	744	755	negative
-29298	Whole	ресторан	815	823	positive
 9289	Whole	ресторане	20	29	positive
 9289	Service	администратор	116	129	positive
 9289	Interior	Обстановка	194	204	positive
@@ -634,120 +508,153 @@
 9289	Interior	фантанчик	944	953	positive
 9289	Interior	зала	965	969	positive
 9289	Service	администратор	1038	1051	positive
-18148	Whole	место	32	37	positive
-18148	Service	официантка	202	212	positive
-18148	Service	заказ принесла	227	241	positive
-18148	Food	Меню	250	254	positive
-18148	Food	выбор	278	283	positive
-18148	Food	десертов	295	303	positive
-18148	Food	выбор алкогольных коктейлей	314	341	positive
-18148	Price	цены	352	356	negative
-18148	Interior	свободных мест	495	509	negative
-18148	Service	официанты	527	536	negative
-18148	Food	десертов	557	565	negative
-18148	Interior	атмосфера	625	634	positive
-18148	Whole	места	641	646	positive
-18148	Food	меню	663	667	positive
-18148	Food	ела	711	714	positive
-18148	Food	пасту 4 сыра	715	727	positive
-18148	Food	вкусом	752	758	positive
-18148	Food	размером порции	761	776	positive
-28585	Whole	ресторана	57	66	neutral
-28585	Whole	ресторана	92	101	positive
-28585	Service	встретила	208	217	neutral
-28585	Service	девушка(официант)	218	235	neutral
-28585	Service	проводила	236	245	positive
-28585	Food	Блюд	290	294	negative
-28585	Food	смузи овощной	346	359	neutral
-28585	Food	смузи злаковый	361	375	neutral
-28585	Food	чая	384	387	neutral
-28585	Food	салат с домашним сыром	407	429	neutral
-28585	Food	руккола с креветками	431	451	neutral
-28585	Food	рулет из лосося с зелёной спаржей	452	485	neutral
-28585	Food	тунец с овощами гриль	488	509	neutral
-28585	Food	Напитки	511	518	neutral
-28585	Food	салаты	555	561	neutral
-28585	Food	горячее	564	571	neutral
-28585	Interior	Атмосфера	606	615	positive
-28585	Interior	мебель	629	635	positive
-28585	Interior	приборы	637	644	positive
-28585	Interior	посуда	646	652	positive
-28585	Interior	вид из окна	654	665	positive
-28585	Interior	свечи	667	672	positive
-28585	Service	обслуживание	674	686	positive
-37428	Whole	заведение	29	38	neutral
-37428	Interior	атмосфере	194	203	positive
-37428	Interior	интерьер	237	245	positive
-37428	Interior	люстры	290	296	positive
-37428	Interior	Помещение	319	328	both
-37428	Whole	заведение	371	380	positive
-37428	Service	Обслуживание	382	394	positive
-37428	Service	официанты	425	434	positive
-37428	Whole	место	479	484	positive
-37428	Interior	атмосфере	539	548	positive
-37428	Service	обслуживанием	577	590	positive
-37428	Food	кальян	615	621	positive
-37428	Food	еду	663	666	neutral
-37428	Food	сырной тарелки	697	711	neutral
-37428	Whole	кафе	723	727	neutral
-34889	Service	ресторанчик	118	129	neutral
-34889	Food	пообедать	130	139	neutral
-34889	Whole	ресторан Кухню	167	181	neutral
-34889	Interior	кондиционера	254	266	positive
-34889	Interior	музыку	286	292	positive
-34889	Service	Девушки администраторы	332	354	positive
-34889	Service	вежливые	355	363	positive
-34889	Interior	атмосфера	383	392	positive
-34889	Interior	интерьер	414	422	positive
-34889	Interior	столики	432	439	positive
-34889	Food	блюд	479	483	positive
-34889	Service	официанты	485	494	positive
-34889	Service	посоветуют	530	540	positive
-34889	Food	Пообедали	595	604	positive
-34889	Food	десерты	680	687	positive
-34889	Whole	место	866	871	positive
-34889	Interior	атомосфере	913	923	positive
-34889	Food	блюд	988	992	positive
-34889	Whole	месте	1028	1033	negative
-34889	Whole	местах	1113	1119	negative
-34889	Whole	место	1199	1204	positive
-280	Whole	ресторан	14	22	neutral
-280	Service	персонал	148	156	positive
-280	Service	открыли	168	175	positive
-280	Service	открыли дверь	168	181	positive
-280	Service	предложили	183	193	positive
-280	Service	принесли меню	218	231	positive
-280	Service	принесли	218	226	positive
-280	Service	подошли	247	254	positive
-280	Interior	Интерьер	342	350	positive
-280	Interior	столики	422	429	positive
-280	Interior	места в центре ресторана	449	473	negative
-280	Service	Заказ принесли	524	538	positive
-280	Food	приготовлено	554	566	positive
-280	Food	Порции	598	604	neutral
-280	Food	блюда	614	619	positive
-280	Food	оформлены	627	636	positive
-280	Whole	ресторана	649	658	positive
-280	Whole	ресторану La Fabrik	704	723	positive
-280	Whole	вечер	736	741	positive
-24275	Whole	заведение	53	62	positive
-24275	Whole	ресторане	112	121	neutral
-24275	Service	персонал	146	154	positive
-24275	Service	скорости	188	196	positive
-24275	Service	внимании	199	207	positive
-24275	Service	обслуживании	212	224	positive
-24275	Service	персоналу	251	260	positive
-24275	Food	Кухня	314	319	positive
-24275	Food	итальянские блюда	356	373	positive
-24275	Whole	ресторан	502	510	positive
-24275	Food	карпаччо из говядины	553	573	positive
-24275	Food	оформлено	579	588	positive
-24275	Interior	детскую комнату	647	662	positive
-24275	Whole	посещение	784	793	positive
-24275	Whole	место	845	850	positive
-24275	Food	поесть	868	874	positive
-24275	Interior	обстановке	884	894	positive
-24275	Food	пиццу	983	988	positive
+8996	Whole	пабе Метрополь	18	32	positive
+8996	Service	швейцар	83	90	positive
+8996	Interior	гардеробная	146	157	positive
+8996	Interior	лестница	168	176	positive
+8996	Interior	Интерьер	178	186	positive
+8996	Whole	заведение	230	239	positive
+8996	Interior	столы	285	290	positive
+8996	Interior	стулья	300	306	positive
+8996	Interior	телевизоры	313	323	positive
+8996	Service	официант	388	396	positive
+8996	Service	запоминал	431	440	positive
+8996	Price	цены	484	488	neutral
+8996	Whole	месте	670	675	positive
+8996	Food	Порции	696	702	positive
+8996	Food	пиво	719	723	positive
+8996	Whole	впечатления от паба	808	827	positive
+8996	Service	персоналу	848	857	positive
+8996	Interior	красоту	955	962	positive
+8996	Interior	интерьеры	967	976	positive
+1427	Whole	заведение	27	36	positive
+1427	Food	ужинали	113	120	neutral
+1427	Service	обслуживанием	169	182	negative
+1427	Whole	посещение	205	214	positive
+1427	Whole	заведения	222	231	positive
+1427	Interior	залы	333	337	negative
+1427	Interior	веранде	350	357	negative
+1427	Service	встретил	394	402	positive
+1427	Service	молодой человек	407	422	positive
+1427	Service	предложил	423	432	positive
+1427	Service	Проводила	475	484	positive
+1427	Service	девушка	504	511	positive
+1427	Service	администратор	566	579	positive
+1427	Service	подала меню	589	600	positive
+1427	Service	налили	630	636	positive
+1427	Price	бесплатной	647	657	positive
+1427	Food	воды	658	662	positive
+1427	Service	Обслуживание	784	796	positive
+1427	Service	администратор	913	926	positive
+1427	Service	помогает	927	935	positive
+1427	Service	официантам	1022	1032	neutral
+1427	Service	Принес нам заказ	1035	1051	positive
+1427	Service	молодой человек	1052	1067	positive
+1427	Interior	живая музыка	1109	1121	positive
+1427	Whole	вечер	1139	1144	positive
+1427	Service	девушке	1177	1184	positive
+1427	Interior	атмосферу	1197	1206	positive
+1427	Service	молодому человеку	1209	1226	positive
+1427	Service	сотрудников	1234	1245	positive
+20862	Whole	Аппетите	18	26	neutral
+20862	Service	встречей	58	66	positive
+20862	Service	сервисом	70	78	positive
+20862	Food	кухней	82	88	positive
+20862	Price	цен	124	127	positive
+20862	Whole	ресторана	191	200	positive
+20862	Service	встретили	291	300	positive
+20862	Service	проводили	302	311	positive
+20862	Service	посадили	313	321	positive
+20862	Service	принесли меню	323	336	positive
+20862	Service	официантка	343	353	negative
+20862	Service	подошла	439	446	both
+20862	Food	пасту	457	462	neutral
+20862	Food	свежевыжатый сок	464	480	neutral
+20862	Food	напитки	482	489	neutral
+20862	Food	напитки	515	522	neutral
+20862	Food	пасты	569	574	neutral
+20862	Service	поданы	599	605	negative
+20862	Food	порцию	638	644	neutral
+20862	Food	Цезарь-салат	708	720	neutral
+20862	Food	американо	723	732	neutral
+20862	Service	ждали	736	741	negative
+20862	Service	чаевых	781	787	negative
+20862	Service	человек	836	843	both
+11532	Food	пообедать	43	52	neutral
+11532	Whole	ресторане	55	64	positive
+11532	Whole	Море	95	99	neutral
+11532	Interior	Интерьер	165	173	positive
+11532	Interior	аквариум	237	245	positive
+11532	Service	официанты	297	306	positive
+11532	Interior	Окна в пол	320	330	positive
+11532	Interior	вид на залив	333	345	positive
+11532	Price	Цены	365	369	positive
+11532	Whole	заведению	385	394	neutral
+11532	Food	Кофе	396	400	positive
+11532	Food	чай с мятой	402	413	positive
+11532	Food	цезарь с тунцом	431	446	positive
+11532	Food	тунец	462	467	positive
+11532	Food	суп-пюре картофельный	470	491	positive
+11532	Food	ягодный сорбет	547	561	neutral
+11532	Food	пасту с морепродуктами	565	587	positive
+11532	Food	десерт	620	626	positive
+11532	Food	мороженое	627	636	positive
+11532	Food	мороженого	682	692	positive
+11532	Service	Обслуживают	708	719	positive
+11532	Price	счет	764	768	positive
+11532	Price	счет	824	828	positive
+11532	Service	официанты	890	899	negative
+11532	Food	Хлебная корзинка	925	941	positive
+25960	Whole	местечку	75	83	positive
+25960	Service	Обслуживание	144	156	positive
+25960	Food	качество блюд	173	186	positive
+25960	Service	Сервис	291	297	negative
+25960	Food	меню	416	420	negative
+25960	Food	качество еды	455	467	positive
+25960	Price	цены	501	505	negative
+25960	Whole	место	562	567	negative
+9721	Whole	ресторане	29	38	neutral
+9721	Service	ресторан	105	113	positive
+9721	Interior	интерьер	146	154	positive
+9721	Whole	ресторанах	175	185	negative
+9721	Whole	ресторан	261	269	positive
+9721	Service	персонал	295	303	positive
+9721	Service	Официанты	305	314	positive
+9721	Food	блюд	356	360	neutral
+9721	Food	еде	383	386	neutral
+9721	Food	попробовать	401	412	positive
+9721	Food	меню	423	427	positive
+9721	Food	крем-суп из лосося	487	505	positive
+9721	Food	равиолли с грибами	508	526	positive
+9721	Whole	ресторане Roll & Roll	564	585	positive
+9721	Food	блюда	626	631	positive
+9721	Whole	ресторане	690	699	positive
+9721	Food	выбор алкоголя	720	734	positive
+9721	Price	ценам	747	752	positive
+9721	Food	разливного пива	767	782	positive
+9721	Food	винная карта	794	806	positive
+9721	Food	попробовать	822	833	positive
+9721	Food	коктейли	848	856	positive
+9721	Food	приготовленные	858	872	positive
+9721	Whole	Ресторан Roll & Roll	883	903	positive
+16714	Service	заказывали столик	27	44	neutral
+16714	Food	кухню	118	123	neutral
+16714	Food	шашлык по азейрбаджански (из баранины)	136	174	neutral
+16714	Food	хачипури Имеритенское	176	197	neutral
+16714	Food	салат Байрам	199	211	neutral
+16714	Food	овощи на гриле	214	228	neutral
+16714	Food	Хачипури	230	238	negative
+16714	Food	сыра	282	286	negative
+16714	Food	Салат	315	320	positive
+16714	Food	баранина	339	347	positive
+16714	Food	овощи	350	355	positive
+16714	Service	Сервис	373	379	positive
+16714	Service	Официант	412	420	positive
+16714	Interior	Интерьер	472	480	neutral
+16714	Food	обеда	559	564	positive
+16714	Service	администратору	658	672	positive
+16714	Service	девушки	725	732	positive
+16714	Service	сервис	782	788	positive
 26152	Whole	ресторан	89	97	neutral
 26152	Whole	Саперави	250	258	neutral
 26152	Interior	Интерьер	260	268	positive
@@ -780,24 +687,18 @@
 26152	Whole	рестораны	1129	1138	positive
 26152	Food	кухней	1154	1160	positive
 26152	Service	обслуживанием	1171	1184	positive
-17999	Whole	ресторан	20	28	neutral
-17999	Whole	Патио на Невском	77	93	positive
-17999	Whole	Планета Суши	100	112	positive
-17999	Service	встретили	231	240	positive
-17999	Service	посадили	249	257	positive
-17999	Interior	столик	268	274	positive
-17999	Service	Официант	287	295	positive
-17999	Service	принёс меню	296	307	positive
-17999	Service	заказ приняли	407	420	positive
-17999	Service	принесли	448	456	negative
-17999	Food	мартини со льдом	477	493	negative
-17999	Service	официанты	629	638	negative
-17999	Service	счёт	746	750	negative
-17999	Price	сдачу	798	803	negative
-17999	Whole	ресторан	918	926	positive
-17999	Whole	место	964	969	positive
-17999	Food	кухня	972	977	positive
-17999	Service	обслуживание	1002	1014	negative
+785	Whole	Ресторан	69	77	positive
+785	Interior	интерьер	90	98	positive
+785	Interior	места	115	120	positive
+785	Interior	украсили	122	130	positive
+785	Interior	красиво	131	138	positive
+785	Food	меню	153	157	negative
+785	Food	Меню	176	180	positive
+785	Food	блюд	339	343	negative
+785	Food	торта	358	363	positive
+785	Service	помогла	392	399	positive
+785	Service	администратор	416	429	positive
+785	Service	помогла	484	491	positive
 19817	Food	поужинать	30	39	positive
 19817	Interior	атмосфера	87	96	positive
 19817	Interior	музыка	112	118	positive
@@ -823,6 +724,29 @@
 19817	Food	суши	1221	1225	positive
 19817	Food	роллы	1228	1233	positive
 19817	Whole	местах	1274	1280	negative
+34402	Whole	место	21	26	positive
+34402	Whole	ресторанчик	191	202	positive
+34402	Food	французской кухни	211	228	positive
+34402	Interior	атмосфера	367	376	positive
+34402	Whole	места	383	388	positive
+34402	Food	кухня	399	404	positive
+34402	Food	меню	432	436	positive
+34402	Interior	комната	438	445	positive
+34402	Interior	программу	485	494	positive
+34402	Service	Аниматоры	496	505	positive
+34402	Food	выбор вина	627	637	positive
+34402	Price	Ценник	687	693	negative
+3552	Food	пицца	92	97	positive
+3552	Food	салаты на закуску	100	117	positive
+3552	Food	выбор горячих блюд	127	145	positive
+3552	Food	качеством приготовления	185	208	positive
+3552	Food	блюдами	226	233	positive
+3552	Food	торт тирамису на десерт	252	275	positive
+3552	Interior	музыка	415	421	positive
+3552	Whole	официанты	442	451	positive
+3552	Service	администраторы	454	468	positive
+3552	Whole	праздник	494	502	positive
+3552	Interior	обстановку	520	530	positive
 28112	Whole	Ресторан	0	8	neutral
 28112	Food	кухня	31	36	neutral
 28112	Service	обслуживание	43	55	neutral
@@ -840,47 +764,28 @@
 28112	Service	скатерть	843	851	positive
 28112	Service	поесть	942	948	positive
 28112	Interior	музыка	969	975	positive
-17475	Whole	ресторане	18	27	neutral
-17475	Whole	месте	95	100	neutral
-17475	Interior	гардероб	131	139	positive
-17475	Whole	гардеробщик	151	162	positive
-17475	Interior	вид в зал	181	190	positive
-17475	Interior	мебель	199	205	positive
-17475	Interior	интерьер	217	225	positive
-17475	Service	Встретили	259	268	positive
-17475	Service	администратора	303	317	negative
-17475	Service	проводили к столу	337	354	positive
-17475	Service	Официант	355	363	negative
-17475	Food	Кухня	500	505	positive
-17475	Food	кушали	506	512	positive
-17475	Food	японскую кухню	513	527	positive
-17475	Food	еда	536	539	positive
-17475	Food	порции	554	560	positive
-17475	Food	подача	561	567	neutral
-17475	Food	салат цезарь	582	594	positive
-17475	Price	скидку	620	626	negative
-17475	Service	Проводили	703	712	positive
-17475	Service	персоналом	718	728	positive
-9776	Whole	ресторан	50	58	neutral
-9776	Interior	интерьер	59	67	positive
-9776	Service	шеф-повар	98	107	positive
-9776	Whole	ресторана	133	142	positive
-9776	Service	официанты	165	174	positive
-9776	Service	сервис	183	189	positive
-9776	Price	цены	221	225	negative
-9776	Food	алкоголя	263	271	neutral
-9776	Food	еду	280	283	neutral
-9776	Whole	ресторане	374	383	positive
-9776	Food	каракатица	429	439	positive
-9776	Food	осьминог	446	454	negative
-9776	Food	жевать	467	473	negative
-9776	Food	блюда из осьминога	515	533	positive
-9776	Food	осьминога	629	638	positive
-9776	Whole	итальянском ресторане	648	669	positive
-9776	Whole	Делфим Бар	670	680	positive
-9776	Whole	Франческо	696	705	positive
-9776	Whole	место	706	711	positive
-9776	Price	цены	758	762	negative
+34710	Service	обслуживание	30	42	positive
+34710	Service	обслужили	86	95	positive
+34710	Service	несли	129	134	negative
+34710	Food	напитки	135	142	neutral
+34710	Service	салат	162	167	neutral
+34710	Price	счет	174	178	negative
+34710	Service	отношение официантов	234	254	negative
+34710	Service	официантка	285	295	negative
+34710	Service	дали	362	366	negative
+34710	Service	меню	387	391	negative
+34710	Service	официантка	442	452	negative
+34710	Service	приняла заказ	539	552	neutral
+34710	Food	супа	573	577	negative
+34710	Service	принесла	578	586	negative
+34710	Food	Напитки	618	625	neutral
+34710	Service	принесла	626	634	negative
+34710	Food	десерта	648	655	neutral
+34710	Food	напитки	680	687	neutral
+34710	Food	кухня	718	723	positive
+34710	Food	кеталонский крем	734	750	positive
+34710	Service	официантов	776	786	negative
+34710	Whole	впечатление	809	820	negative
 5155	Whole	заведения	14	23	positive
 5155	Food	кухня	47	52	positive
 5155	Service	обслуживание	66	78	positive
@@ -895,6 +800,18 @@
 5155	Food	поели	463	468	positive
 5155	Food	выпили	471	477	positive
 5155	Food	глинтвейн	494	503	positive
+33798	Whole	ресторана	23	32	neutral
+33798	Food	поесть	114	120	positive
+33798	Whole	провести вечер	131	145	positive
+33798	Food	меню	167	171	positive
+33798	Food	японская и итальянская кухни	229	257	positive
+33798	Food	Паста	278	283	positive
+33798	Food	суши	286	290	positive
+33798	Food	блюда на гриле	325	339	positive
+33798	Food	еде	352	355	positive
+33798	Interior	интерьер	378	386	positive
+33798	Service	Официанты	409	418	positive
+33798	Whole	ресторан	479	487	positive
 31071	Whole	заведение	11	20	positive
 31071	Interior	зал	83	86	negative
 31071	Interior	столы	247	252	negative
@@ -911,101 +828,82 @@
 31071	Food	блюда	952	957	positive
 31071	Food	Вино красное "домашнее"	970	993	neutral
 31071	Price	Чек	1014	1017	negative
-3647	Food	шеф повара	45	55	positive
-3647	Food	салаты	68	74	positive
-3647	Food	горячее	77	84	positive
-3647	Food	Порции	86	92	positive
-3647	Food	пиво	142	146	positive
-3647	Price	цены	198	202	positive
-3647	Service	обслуживание	217	229	positive
-3647	Service	Официантки	243	253	positive
-3647	Whole	ресторане	277	286	positive
-3647	Interior	Интерьер	366	374	positive
-3647	Whole	отдохнули	413	422	positive
-36589	Service	персоналу	57	66	positive
-36589	Service	обслуживание	83	95	positive
-36589	Whole	Ресторан	97	105	positive
-36589	Interior	вид из окон	120	131	positive
-36589	Food	Еда	158	161	positive
-36589	Food	оформление блюд	189	204	positive
-36589	Whole	ресторанов	269	279	neutral
-36589	Whole	место	340	345	positive
-27569	Whole	Арагви	22	28	neutral
-27569	Service	столик забронировали	67	87	neutral
-27569	Food	кухня	123	128	positive
-27569	Service	обслуживание	132	144	positive
-27569	Interior	обстановка	148	158	positive
-27569	Whole	ресторан	165	173	positive
-27569	Service	заказали столик	303	318	neutral
-27569	Food	Готовят	409	416	positive
-27569	Whole	Арагви	419	425	positive
-27569	Service	ждать	440	445	positive
-27569	Food	еду	446	449	neutral
-27569	Food	зелень с овощами	481	497	positive
-27569	Food	шашлык	547	553	positive
-27569	Food	телятины	587	595	positive
-27569	Food	свинины	608	615	positive
-27569	Food	чебуреки	631	639	positive
-27569	Food	десертов	641	649	positive
-27569	Food	десерт	699	705	positive
-27569	Food	печёную грушу	708	721	positive
-27569	Food	грузинских вин	736	750	negative
-27569	Interior	Музыка	771	777	positive
-27569	Interior	обстановка	801	811	positive
-27569	Whole	место	874	879	positive
-27569	Food	поесть	909	915	positive
-27569	Whole	Арагви	917	923	positive
-4658	Whole	Двух палочках	10	23	positive
-4658	Interior	Интерьер	116	124	positive
-4658	Food	Еда	152	155	positive
-4658	Service	обслуживание	158	170	positive
-4658	Price	цены	210	214	positive
-4658	Whole	ресторан	225	233	positive
-4658	Service	официантам	285	295	positive
-4658	Whole	Две палочки	365	376	positive
-3762	Food	пиво	156	160	neutral
-3762	Food	шницель	181	188	positive
-3762	Food	мороженое	347	356	positive
-3762	Food	настойку	369	377	positive
-3762	Food	Мороженое	467	476	positive
-3762	Whole	заведение	532	541	positive
-3762	Interior	зале для курящих	667	683	neutral
-3762	Service	официантов	738	748	negative
-3762	Service	девушки	756	763	negative
-15758	Whole	заведении	6	15	neutral
-15758	Whole	Ресторану	60	69	both
-15758	Whole	место	131	136	positive
-15758	Service	обслуживание	153	165	positive
-15758	Food	еда	177	180	positive
-15758	Food	салаты	209	215	positive
-15758	Food	горячее	218	225	positive
-15758	Food	стейк из лосося	226	241	positive
-15758	Food	"сытая хавронья" из свинины	264	291	positive
-15758	Service	Принесли	294	302	positive
-15758	Food	алкоголя	320	328	negative
-15758	Food	пива	336	340	positive
-15758	Food	медовуха	389	397	positive
-15758	Food	разнообразия в меню	460	479	positive
-24132	Whole	провели вечер	24	37	positive
-24132	Whole	"Кухне"	40	47	positive
-24132	Interior	интерьер	66	74	positive
-24132	Interior	атмосфера	144	153	positive
-24132	Whole	Кухне	165	170	positive
-24132	Service	обслуживание	193	205	positive
-24132	Service	официантке	212	222	positive
-24132	Service	знала меню	262	272	positive
-24132	Food	съели	342	347	positive
-24132	Food	Салат Пампелон	374	388	positive
-24132	Food	шпинат с голубым сыром под фантастической заправкой	408	459	positive
-24132	Food	крем супы из чечевицы и лисичек	517	548	positive
-24132	Food	наелась	588	595	positive
-24132	Food	салатом	596	603	positive
-24132	Food	супом	606	611	positive
-24132	Food	десерт	660	666	positive
-24132	Whole	провести время	813	827	positive
-24132	Interior	атмосфере	865	874	positive
-24132	Food	поесть	893	899	positive
-24132	Whole	Кухня	904	909	positive
+3231	Whole	ресторане	103	112	neutral
+3231	Interior	украшенный	145	155	positive
+3231	Interior	зал	156	159	positive
+3231	Interior	интерьер	168	176	positive
+3231	Service	персонал	195	203	positive
+3231	Service	Обслуживание	207	219	positive
+3231	Service	официанты	281	290	positive
+3231	Service	официанта	419	428	positive
+3231	Service	обслуживала	473	484	positive
+35325	Whole	местечко	22	30	positive
+35325	Price	ценник	40	46	positive
+35325	Interior	Интерьер	57	65	positive
+35325	Service	сервис	68	74	positive
+35325	Food	Блюда	138	143	both
+35325	Interior	кол-во людей	253	265	negative
+35325	Service	официанты	318	327	negative
+35325	Service	повара	330	336	negative
+35325	Service	обслуживания	392	404	negative
+35325	Whole	место	441	446	positive
+15423	Whole	заведение	7	16	positive
+15423	Service	персонала	129	138	positive
+15423	Interior	песни	248	253	positive
+15423	Food	кухни	309	314	positive
+15423	Food	готовят	319	326	positive
+15423	Food	стейки из говядины и лосося	383	410	positive
+15423	Service	обслуживание	543	555	positive
+15423	Service	обслуживание	645	657	positive
+15423	Service	девушка	707	714	positive
+5974	Interior	интерьер	9	17	positive
+5974	Interior	атмосфера	28	37	positive
+5974	Interior	живая музыка	40	52	positive
+5974	Food	оформление блюд	77	92	positive
+5974	Service	ждали	233	238	negative
+5974	Service	обслуживание	298	310	negative
+5974	Service	поваров	321	328	negative
+5974	Service	официантов	333	343	negative
+5974	Service	Ждал	346	350	negative
+5974	Service	официантка	497	507	neutral
+5974	Price	счете	523	528	negative
+5974	Service	заказали	567	575	negative
+5974	Service	чеке	634	638	negative
+5974	Service	Счет	694	698	negative
+5974	Service	официантка	803	813	negative
+5974	Whole	Общее мнение	847	859	both
+5974	Whole	места	880	885	both
+33524	Whole	место	4	9	neutral
+33524	Whole	место	66	71	positive
+33524	Food	мясе	116	120	positive
+33524	Whole	Абажур	144	150	positive
+33524	Food	Мясо	152	156	positive
+33524	Whole	заведении	215	224	neutral
+33524	Food	покушать	237	245	positive
+33524	Food	мяса	246	250	positive
+33524	Food	кухней	271	277	positive
+33524	Whole	общение	310	317	positive
+33524	Service	официанта	318	327	positive
+33524	Food	Официанты	366	375	positive
+33524	Service	расскажут	399	408	positive
+33524	Food	блюдах	416	422	neutral
+33524	Service	дадут совет	424	435	positive
+33524	Food	состав блюда	473	485	neutral
+33524	Service	люди	526	530	positive
+33524	Service	отношения	581	590	positive
+33524	Service	официантов	591	601	positive
+33524	Whole	зайти	616	621	positive
+33524	Food	Кухней	655	661	positive
+33524	Whole	место	741	746	positive
+33524	Food	утку	782	786	positive
+33524	Food	попробовать	799	810	positive
+33524	Service	повара	857	863	positive
+33524	Food	кофе	911	915	positive
+33524	Interior	Интерьер	917	925	positive
+33524	Interior	освещение	936	945	positive
+33524	Interior	места	954	959	positive
+33524	Interior	музыка	969	975	positive
+33524	Whole	Абажур	1025	1031	positive
 9837	Whole	ресторан	18	26	positive
 9837	Food	кухня	81	86	positive
 9837	Food	порции	95	101	both
@@ -1020,38 +918,43 @@
 9837	Service	Обслуживание	411	423	positive
 9837	Service	официантки	460	470	positive
 9837	Interior	атмосфера	514	523	positive
-33912	Whole	ресторане "Оливье"	53	71	neutral
-33912	Interior	столик	382	388	positive
-33912	Service	встретил	399	407	positive
-33912	Service	официант	420	428	positive
-33912	Service	проводил до столика	436	455	positive
-33912	Interior	интерьер	510	518	positive
-33912	Whole	времяпрепровождению	573	592	positive
-33912	Food	еде	621	624	positive
-33912	Food	приготовлено	688	700	positive
-33912	Food	котлетки из телятины с пюре	725	752	neutral
-33912	Food	хачапури	754	762	neutral
-33912	Food	белого вина	776	787	positive
-33912	Food	Котлетки	789	797	positive
-33912	Food	пюре	809	813	both
-33912	Food	хачапури	844	852	positive
-33912	Food	съели	877	882	positive
-33912	Food	салатик "Оливье"	984	1000	neutral
-10825	Whole	ресторане	47	56	neutral
-10825	Whole	ресторана	95	104	positive
-10825	Interior	Интерьер	126	134	positive
-10825	Service	встретил	167	175	positive
-10825	Service	молодой человек	176	191	positive
-10825	Service	предложил	194	203	positive
-10825	Service	выбрать	204	211	positive
-10825	Interior	столик	230	236	positive
-10825	Service	предупредил	239	250	positive
-10825	Food	горячее	260	267	neutral
-10825	Service	подождать	292	301	neutral
-10825	Service	предупреждены	387	400	positive
-10825	Food	Качество кухни	422	436	positive
-10825	Service	обслуживание	456	468	positive
-10825	Whole	вечере	625	631	positive
+9216	Whole	ресторан	14	22	positive
+9216	Interior	зал	102	105	positive
+9216	Interior	кондеями	108	116	positive
+9216	Interior	Интерьер	117	125	positive
+9216	Service	обслуживание	137	149	negative
+9216	Whole	ресторан	171	179	neutral
+9216	Food	хлеб	425	429	neutral
+9216	Food	напитки	431	438	neutral
+9216	Food	холодные нарезки	441	457	neutral
+9216	Service	офицанта	531	539	negative
+9216	Service	готовят	560	567	negative
+9216	Service	директору	625	634	negative
+9216	Food	порции	783	789	negative
+9216	Food	еды	853	856	negative
+9216	Service	до заказывать	877	890	negative
+9216	Service	Работал	912	919	negative
+9216	Service	офицант	925	932	negative
+9216	Service	админестратор	935	948	negative
+15567	Whole	ресторане	136	145	positive
+15567	Food	пасту	404	409	negative
+15567	Food	суши	412	416	negative
+15567	Food	Паста	418	423	negative
+15567	Food	макароны	455	463	negative
+15567	Food	соусом	477	483	negative
+15567	Food	суши	487	491	both
+15567	Food	суши	495	499	both
+15567	Food	готовились	517	527	negative
+15567	Service	Официантка	609	619	negative
+15567	Interior	горячие полотенца	748	765	negative
+15567	Interior	интерьер	907	915	positive
+15567	Food	кухня	917	922	positive
+15567	Service	организация работы	927	945	negative
+15567	Service	повар	1040	1045	negative
+15567	Service	обслужить	1063	1072	negative
+15567	Service	девушка официантка	1095	1113	negative
+15567	Service	срок ожидания	1172	1185	negative
+15567	Whole	заведение	1220	1229	negative
 7011	Whole	место	117	122	positive
 7011	Interior	интерьер	143	151	positive
 7011	Interior	зал	222	225	positive
@@ -1076,58 +979,108 @@
 7011	Food	еда	1079	1082	positive
 7011	Whole	ресторану	1149	1158	positive
 7011	Whole	провести время	1221	1235	positive
-34228	Whole	впечатлением	57	69	negative
-34228	Interior	зал	89	92	both
-34228	Food	Еда	177	180	negative
-34228	Whole	ХочуХарчо	230	239	neutral
-34228	Whole	Мамалыгах	241	250	neutral
-34228	Price	цене	297	301	negative
-34228	Food	чебурек	312	319	positive
-34228	Food	карпачо сибаса	354	368	negative
-34228	Food	вкус	388	392	negative
-34228	Food	стейк из тунца	404	418	negative
-34228	Food	салат с креветками и крабом	456	483	negative
-34228	Food	шашлык ягненка	498	512	positive
-34228	Food	запеченный сыр	527	541	negative
-34228	Food	шоколадная шкатулка	567	586	positive
-34228	Food	кокосовые шоты	611	625	positive
-34228	Service	Сервис	635	641	negative
-34228	Service	официант	662	670	negative
-34228	Service	подходил	671	679	negative
-18372	Whole	Ресторанчик	0	11	positive
-18372	Food	Готовят	42	49	positive
-18372	Food	порции	79	85	positive
-18372	Food	салатом	92	99	positive
-18372	Food	наелась	109	116	positive
-18372	Service	обслуживание	136	148	positive
-18372	Service	официантка	175	185	positive
-18372	Service	поможет с выбором	226	243	positive
-18372	Food	Повара	244	250	positive
-18372	Food	готовят	260	267	positive
-18372	Food	шашлык из курицы	299	315	positive
-18372	Food	салат "Розана"	318	332	positive
-18372	Service	бар	404	407	positive
-18372	Service	работает	408	416	positive
-21856	Whole	гранд-кафе 21 Верста	74	94	positive
-21856	Service	заказать столик	105	120	neutral
-21856	Service	молодой человек	138	153	positive
-21856	Service	забронировал	162	174	positive
-21856	Service	встретила	295	304	positive
-21856	Service	молодая девушка	314	329	positive
-21856	Service	проводила к столику	332	351	positive
-21856	Service	Обслуживала	352	363	positive
-21856	Service	девушка	382	389	positive
-21856	Service	отвечала	410	418	positive
-21856	Food	Кухня	439	444	positive
-21856	Food	порции	458	464	positive
-21856	Food	поворам	474	481	positive
-21856	Service	Обслуживание	508	520	positive
-21856	Interior	интерьер	564	572	positive
-21856	Food	кухня	573	578	positive
-21856	Service	персонал	579	587	positive
-21856	Interior	живая музыка	588	600	positive
-21856	Interior	атмосфера	601	610	positive
-21856	Interior	песню	794	799	positive
+2606	Whole	заведения	23	32	neutral
+2606	Whole	Местечко	87	95	positive
+2606	Interior	интерьер	104	112	positive
+2606	Food	кухня	151	156	positive
+2606	Service	официантка	201	211	positive
+2606	Service	принесла меню	212	225	positive
+2606	Service	взять заказ	261	272	positive
+2606	Service	принесла	288	296	positive
+2606	Food	пиво	297	301	neutral
+2606	Food	закуски	315	322	neutral
+2606	Service	официантка	364	374	negative
+2606	Service	ждать	462	467	negative
+2606	Service	посчитали	477	486	negative
+2606	Service	счет	502	506	negative
+2606	Service	официантка	559	569	negative
+2606	Service	разобраться	597	608	positive
+2606	Service	поступила	610	619	negative
+2606	Whole	заведение	788	797	negative
+37391	Whole	тратторию Чили Пицца	98	118	positive
+37391	Price	скидки	177	183	positive
+37391	Food	бутылку вина	186	198	positive
+37391	Service	Работа	226	232	positive
+37391	Service	официантов	233	243	positive
+37391	Service	обслуживания	347	359	positive
+37391	Food	продуктов	418	427	positive
+37391	Food	десерт семифреддо	465	482	positive
+37391	Whole	провели время	524	537	positive
+37391	Interior	атмосфера	602	611	positive
+37391	Whole	ресторан	647	655	positive
+14539	Food	перекусить	53	63	neutral
+14539	Food	шашлыки из свинины	74	92	neutral
+14539	Food	овощи на гриле	94	108	neutral
+14539	Food	картофель "Айдахо"	110	128	neutral
+14539	Food	домашнему морсу	132	147	neutral
+14539	Service	белого сухого вина	173	191	neutral
+14539	Food	шашлык	233	239	positive
+14539	Food	Овощи на гриле	303	317	positive
+14539	Food	"Айдахо"	320	328	positive
+14539	Food	кухня	361	366	positive
+14539	Interior	Интерьер	377	385	neutral
+14539	Interior	стены	459	464	both
+14539	Service	Обслуживание	545	557	positive
+14539	Service	официантка	603	613	negative
+14539	Service	принесли	655	663	negative
+14539	Service	официантке	759	769	negative
+14539	Service	смутилась	780	789	negative
+14539	Price	счете	831	836	negative
+14539	Service	Обслуживали	926	937	positive
+14539	Service	девушка	942	949	positive
+14539	Service	молодой человек	952	967	positive
+14539	Service	Ждать заказа	998	1010	positive
+14539	Service	Убирали	1030	1037	positive
+14539	Service	Счет	1101	1105	neutral
+14539	Whole	заведение	1158	1167	positive
+38299	Whole	заведение	74	83	neutral
+38299	Service	заведение	167	176	neutral
+38299	Interior	обстановка	211	221	positive
+38299	Service	обслуживание	236	248	positive
+38299	Interior	диванчики	258	267	positive
+38299	Interior	зала	273	277	positive
+38299	Interior	Интерьер	341	349	positive
+38299	Interior	детская	435	442	positive
+38299	Interior	гостиная	457	465	positive
+38299	Service	Официанта	519	528	positive
+38299	Service	ждать	547	552	positive
+38299	Service	подошли	561	568	positive
+38299	Service	приняли заказ	571	584	positive
+38299	Food	салат с треской	633	648	neutral
+38299	Service	посоветовал	650	661	positive
+38299	Service	официант	662	670	positive
+38299	Food	дораду в азиатском стиле	674	698	neutral
+38299	Food	тайский салат с говядиной	741	766	neutral
+38299	Food	стейк рибай	769	780	neutral
+38299	Food	коктейли	812	820	neutral
+38299	Food	салатики	871	879	positive
+38299	Food	порции	899	905	positive
+38299	Food	заправкой	919	928	positive
+38299	Food	дорада на тушеных овощах	930	954	positive
+38299	Food	стейк	958	963	positive
+38299	Food	кусок мяса	981	991	positive
+38299	Food	прожаркой	1005	1014	positive
+38299	Food	сыт	1046	1049	positive
+12131	Whole	Даче	7	11	positive
+12131	Interior	Интерьер	61	69	positive
+12131	Interior	интерьер	71	79	positive
+12131	Interior	интерьер	91	99	positive
+12131	Interior	цветовое решение	109	125	positive
+12131	Whole	Дача	224	228	positive
+12131	Whole	место	278	283	positive
+12131	Food	чаем с пирожными	331	347	positive
+12131	Interior	обстановки	449	459	positive
+12131	Service	сервису	560	567	both
+12131	Whole	общего впечатления	639	657	positive
+12131	Interior	приборы	709	716	positive
+12131	Interior	посуда	719	725	positive
+12131	Interior	столы	736	741	positive
+12131	Interior	подоконники	750	761	positive
+12131	Food	Кухня	780	785	positive
+12131	Food	порции	832	838	positive
+12131	Food	десертам	884	892	positive
+12131	Interior	гардероб	958	966	positive
+12131	Interior	зонирование	976	987	positive
 7193	Whole	место	19	24	positive
 7193	Food	перекусить	78	88	positive
 7193	Service	Официанты	169	178	positive
@@ -1136,44 +1089,102 @@
 7193	Food	Еды	321	324	positive
 7193	Whole	место	378	383	positive
 7193	Food	пообедать	422	431	positive
-24713	Interior	банкетном зале	11	25	neutral
-24713	Interior	Зал	52	55	positive
-24713	Price	ценовой категории	98	115	neutral
-24713	Food	кол-во закусок	159	173	negative
-24713	Food	Сырная тарелка	213	227	negative
-24713	Food	сыром	246	251	negative
-24713	Food	Фрукты	253	259	negative
-24713	Food	салаты	307	313	negative
-24713	Whole	кафе	426	430	neutral
-24713	Food	Еда	448	451	positive
-24713	Food	готовит	502	509	negative
-24713	Food	Горячее	525	532	negative
-24713	Food	Торт	554	558	neutral
-24713	Food	качество еды	611	623	negative
-24713	Service	Администратор	717	730	positive
-24713	Service	упаковано	768	777	positive
-24713	Service	собрано	780	787	positive
-24713	Service	официанты	833	842	negative
-24713	Price	плату	912	917	negative
-20397	Whole	Набережную	23	33	positive
-20397	Whole	проведенным вечером	60	79	positive
-20397	Whole	Ресторан	143	151	positive
-20397	Interior	столики	217	224	positive
-20397	Food	пиво	385	389	positive
-20397	Food	попробовали	411	422	positive
-20397	Food	Малиновое "Аптекарское"	434	457	positive
-20397	Service	Обслуживание	479	491	positive
-20397	Food	напитки	520	527	positive
-20397	Service	девушка	561	568	positive
-20397	Service	рассказала	582	592	positive
-20397	Service	советы по меню	608	622	positive
-20397	Food	Салаты	686	692	positive
-20397	Food	свинина с сыром Фета, фисташками и грибным соусом	702	751	positive
-20397	Food	Паста с морепродуктами	776	798	positive
-20397	Food	томатный соус	842	855	positive
-20397	Food	вкус	864	868	positive
-20397	Food	тимьяна	878	885	positive
-20397	Food	меню	924	928	positive
-20397	Food	блюд	954	958	positive
-20397	Whole	Набережную	964	974	positive
-20397	Whole	место	1110	1115	positive
+36126	Whole	"Старом Пловдиве"	126	143	neutral
+36126	Whole	посещения	222	231	positive
+36126	Whole	места	238	243	positive
+36126	Interior	помещение	357	366	positive
+36126	Interior	центральном зале	376	392	positive
+36126	Food	кухня	410	415	positive
+36126	Interior	внешний вид стола	419	436	positive
+36126	Service	сотрудники	465	475	positive
+36126	Service	администратор	478	491	positive
+36126	Service	помогла	501	508	positive
+36126	Service	официант	544	552	positive
+36126	Service	работа	560	566	positive
+36126	Service	приносила	620	629	positive
+36126	Service	уносила	632	639	positive
+36126	Service	спрашивала	648	658	positive
+36126	Service	советовала	675	685	positive
+36126	Whole	ресторанах	723	733	neutral
+36126	Service	обслуживание	738	750	positive
+36126	Whole	коллективу	786	796	positive
+36126	Whole	ресторан	848	856	positive
+7154	Whole	ресторан	20	28	positive
+7154	Service	персонал	130	138	positive
+7154	Food	Готовят	197	204	positive
+7154	Food	мясные салаты	233	246	positive
+7154	Food	пироги	249	255	positive
+7154	Food	вино	267	271	positive
+7154	Food	пиво	280	284	positive
+7154	Interior	музыку	346	352	positive
+7154	Whole	место	393	398	positive
+10798	Whole	место	68	73	positive
+10798	Whole	провести время	124	138	positive
+10798	Interior	обстановке	155	165	positive
+10798	Interior	свечи	198	203	positive
+10798	Interior	столике	221	228	positive
+10798	Interior	кресла	238	244	positive
+10798	Interior	свет	259	263	positive
+10798	Interior	музыка	265	271	positive
+10798	Interior	аромат	273	279	positive
+10798	Food	Японская кухня	300	314	positive
+10798	Food	Европейская кухня	368	385	positive
+10798	Price	цены	443	447	positive
+10798	Service	сервис	463	469	positive
+10798	Service	девушки	480	487	positive
+10798	Service	принесли заказ	502	516	positive
+10798	Food	коктели	531	538	positive
+10798	Food	алкоголь	541	549	positive
+28258	Food	поужинать	16	25	neutral
+28258	Service	встретил	69	77	positive
+28258	Service	парковщик	78	87	positive
+28258	Service	помог	89	94	positive
+28258	Service	поприветствовал	144	159	positive
+28258	Interior	Интерьер	161	169	positive
+28258	Interior	дизайн	208	214	positive
+28258	Service	обслуживала	270	281	positive
+28258	Service	девушка	291	298	positive
+28258	Service	помогла	370	377	positive
+28258	Food	вареники	517	525	neutral
+28258	Food	суши	527	531	neutral
+28258	Food	вок	533	536	neutral
+28258	Food	пасты	538	543	neutral
+28258	Food	крем суп из белых грибов	600	624	positive
+28258	Food	пенне с уткой	645	658	positive
+28258	Food	Суп	670	673	positive
+28258	Food	паста	690	695	positive
+28258	Food	соуса	727	732	positive
+28258	Food	мясо утки	741	750	neutral
+28258	Food	Пастой	752	758	positive
+28258	Food	салат с говядиной	791	808	positive
+28258	Food	карпаччо	811	819	positive
+28258	Price	цены	822	826	neutral
+28258	Whole	визита	870	876	positive
+28258	Food	поели	931	936	positive
+28258	Whole	ресторан	965	973	positive
+28258	Food	поварам	983	990	positive
+28258	Service	персоналу	993	1002	positive
+33043	Interior	Интерьер	33	41	positive
+33043	Interior	музыка	63	69	positive
+33043	Service	девушки	85	92	positive
+33043	Food	еда	103	106	positive
+33043	Food	Рубленные котлетки из лосося и судака с голландским соусом и белой спаржей	165	239	positive
+33043	Food	куриное филе с котлетками из кабачков	241	278	positive
+33043	Food	салат из тунца	280	294	positive
+33043	Food	десерт с бананами	296	313	positive
+33043	Food	блюдо	387	392	positive
+33043	Service	Обслуживание	409	421	positive
+33043	Service	улыбаются	478	487	positive
+33043	Service	девушка хостес	561	575	positive
+33043	Interior	столы	621	626	negative
+33043	Service	нашла	677	682	positive
+33043	Interior	место	701	706	positive
+33043	Service	принес	714	720	neutral
+33043	Service	официант	721	729	neutral
+33043	Service	ждали	742	747	negative
+33043	Service	заказали	782	790	neutral
+33043	Service	заказ	792	797	positive
+33043	Service	принесли	798	806	positive
+33043	Food	приготовили	880	891	positive
+33043	Service	оставил	1017	1024	negative
+33043	Whole	Шатер	1318	1323	positive

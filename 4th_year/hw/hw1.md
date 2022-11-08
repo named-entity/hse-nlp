@@ -28,8 +28,8 @@
 
 ### Формат сдачи задания
 
-Jupyter-notebook на гитхабе (запишите адрес своего репозитория [сюда](https://docs.google.com/forms/d/e/1FAIpQLSfvoxiOKm9jnHO6v_ivGOeA3TKBT7Hg7bQlHa56MuALeMIcvQ/viewform?usp=sf_link))
+Jupyter-notebook на гитхабе (запишите адрес своего репозитория [сюда](https://forms.gle/9HU4ogurieArp7GB8))
 
 ### Дедлайн
 
-7 ноября 2021 23:59мск
+18 ноября 2022 23:59мск

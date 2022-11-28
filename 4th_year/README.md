@@ -14,8 +14,8 @@
 |Дата|Лекция|Дата|Семинар|Домашнее задание|Дедлайн|
 |-|-|-|-|-|-|
 |3.11|[Введение. Извлечение ключевых слов.](Slides/1_Keywords.ipynb)|-|[Вспомним синтаксис: UDpipe, stanza](seminar/1_Keywords.ipynb)|[Ключевые слова](hw/hw1.md)|18.11 23:59мск|
-|10.11|[Извлечение коллокаций](Slides/2_Collocations.ipynb)|3.11|[Извлечение коллокаций](Slides/1_Parsing_Collocations.ipynb)|-|-|
-|17.11|[Named Entity Recognition](Slides/3_NER.ipynb)|25.11|[NER](https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing)|-|-|
+|10.11|[Извлечение коллокаций](Slides/2_Collocations.ipynb)|10.11|[Извлечение коллокаций](Slides/1_Parsing_Collocations.ipynb) + [Вспомним синтаксис: UDpipe, stanza](seminar/1_Keywords.ipynb)|-|-|
+|17.11|[Named Entity Recognition](Slides/3_NER.ipynb)|25.11| [Yargy](https://colab.research.google.com/drive/1qzf4Oa_nI2aB-dPHgBC4-nTjkFQiU6ft?usp=sharing) [NER](https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing)|-|-|
 |1.12|[Представление значения: тезаурусы](Slides/4_Thesauri.ipynb)|2.12|-|[Коллокации+NER](hw/hw2.md)|12.12 23:59мск|
 |1.12|[WSD](Slides/5_WSD.ipynb)|24.11|[WSD](seminar/5_WSD.ipynb)|-|-|
 |-|-|-|[Opinion Mining](seminar/6_Opinion_Mining.ipynb)|-|-|

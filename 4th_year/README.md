@@ -7,7 +7,7 @@
 ## Оценка:<br><a name="score"/>
 квизы по материалам лекций - 25%<br>
 домашние задания – 40% <br>
-финальный проект (TBA) – 35%<br>
+финальный проект – 35%<br>
 работа на семинарах и лекциях – бонусы<br>
 
 ## Расписание лекций, семинаров и домашних заданий<a name="sched"/>
@@ -20,10 +20,9 @@
 |1.12|[Sentiment Analysis 2](Slides/8_Sentiment.ipynb)|02.12|[Aspect based SA](https://colab.research.google.com/drive/1TfMaNkB-8fjnjZuEdVtgrIwHtL9Bi4x8)|[проект](https://docs.google.com/document/d/1eqTKOC3aJzA8TZphVE4Legw7CSGtvSgRpq-YuUkV8HM/edit?usp=sharing)||
 |8.12|[Представление значения: тезаурусы](Slides/4_Thesauri.ipynb)|14.12|[Text Summarization](https://colab.research.google.com/drive/1HQJYCF5pHI7o1MHqqPbU4y92WoZd-Ynr?usp=sharing)|[Коллокации+NER](hw/hw2.md)|17.12 23:59мск|
 |8.12|[WSD](Slides/5_WSD.ipynb)|14.12|[Text Summarization](https://colab.research.google.com/drive/1HQJYCF5pHI7o1MHqqPbU4y92WoZd-Ynr?usp=sharing)|-|
-|-|[Information Extraction](Slides/8-information-extraction.pptx)|17.12|[[WSD](seminar/5_WSD.ipynb)|-|-|
+|15.12|[Information Extraction](Slides/8-information-extraction.pptx)|17.12|[[WSD](seminar/5_WSD.ipynb)|-|-|
+|15.12|[Машинный перевод](Slides/mt.pptx)|-|[Машинный перевод](https://colab.research.google.com/drive/19HMaWE7fH0X-XjwePW3EKXvJm1MOh2EY?usp=sharing)|-|-|
 |-|-|-|[Text Summarization](https://colab.research.google.com/drive/1gXbcPqfx7teI7ANTgwx3I52DJdV5Mnwz?usp=sharing)|-|-|
-|-|[Машинный перевод](Slides/mt.pptx)|-|[Машинный перевод](https://colab.research.google.com/drive/19HMaWE7fH0X-XjwePW3EKXvJm1MOh2EY?usp=sharing)|-|-|
-|-|Invited lecture про голосовых помощников|-|-|-|-|
 
 ## Основная литература по курсу<a name="ref"/>
 [тут](References.md)

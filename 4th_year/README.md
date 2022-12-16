@@ -21,8 +21,8 @@
 |8.12|[Представление значения: тезаурусы](Slides/4_Thesauri.ipynb)|14.12|[Text Summarization](https://colab.research.google.com/drive/1HQJYCF5pHI7o1MHqqPbU4y92WoZd-Ynr?usp=sharing)|[Коллокации+NER](hw/hw2.md)|17.12 23:59мск|
 |8.12|[WSD](Slides/5_WSD.ipynb)|14.12|[Text Summarization](https://colab.research.google.com/drive/1HQJYCF5pHI7o1MHqqPbU4y92WoZd-Ynr?usp=sharing)|-|
 |15.12|[Information Extraction](Slides/8-information-extraction.pptx)|17.12|[WSD пустой](https://colab.research.google.com/drive/1mYGpAt_9c3pvun6ulPPcbMyGUzqZFhW8?usp=sharing), [WSD готовый](https://colab.research.google.com/drive/1N62NG-apwwzRqMXWkYnLZxCyLTpHYXnM?usp=sharing)|-|-|
-|15.12|[Машинный перевод](Slides/mt.pptx)|-| [NMT with attention](https://colab.research.google.com/drive/127wCxPjeEDKMdQNA3Wa-0xkJ2-d-NqfB#scrollTo=t-fPYP_9K8xa)  и [BLUE](https://colab.research.google.com/drive/19HMaWE7fH0X-XjwePW3EKXvJm1MOh2EY?usp=sharing)|-|-|
-|-|-|-|[Text Summarization](https://colab.research.google.com/drive/1gXbcPqfx7teI7ANTgwx3I52DJdV5Mnwz?usp=sharing)|-|-|
+|15.12|[Машинный перевод](Slides/mt.pptx)|17.12| [NMT with attention](https://colab.research.google.com/drive/127wCxPjeEDKMdQNA3Wa-0xkJ2-d-NqfB#scrollTo=t-fPYP_9K8xa)  и [BLUE](https://colab.research.google.com/drive/19HMaWE7fH0X-XjwePW3EKXvJm1MOh2EY?usp=sharing)|-|-|
+|-|-|20.12|Консультация по проекту|-|-|
 
 ## Основная литература по курсу<a name="ref"/>
 [тут](References.md)

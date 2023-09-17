@@ -19,6 +19,8 @@
 
 В NLP in action (см. материалы к 1 лекции) - Глава 5, **Baby steps with neural networks**
 
+[The basics of Language Modeling](https://medium.com/@antonio.lopardo/the-basics-of-language-modeling-1c8832f21079)
+
 ## Разное
 
 (ещё можно посмотреть ссылки из основной литературы)

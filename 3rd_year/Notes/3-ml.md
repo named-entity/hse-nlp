@@ -8,6 +8,8 @@ Jay Alammar's Blog: [A Visual and Interactive Guide to the Basics of Neural Netw
 
 [Gradient Descent Simplified](https://medium.com/geekculture/gradient-descent-simplified-631a7ce38cb6)
 
+[Cross entropy loss](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
+
 ## Sebastian Ruder's series on Word Embeddings
 https://www.ruder.io/word-embeddings-1/
 

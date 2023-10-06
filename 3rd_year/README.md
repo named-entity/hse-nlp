@@ -16,7 +16,7 @@
 |18.09|[Введение в ML и нейросети](Slides/3-ml.pdf) + [тетрадка](Slides/ml-intro.ipynb)|18.09|Qustion Answering. Bert. (Индексация [слайды_Аня](https://docs.google.com/presentation/d/19DU00_K_kYXE7DTiyHbO8uLzH2-yAQNXenrphKq5wAo/edit?usp=sharing) [тетрадка_Аня](https://colab.research.google.com/drive/1XLbQCh-7nEFXoOGJendZEGSCAIVT6SAg?usp=sharing))|||ридинг - к семинару;|
 |25.09|[Автоматический морфологический анализ](Slides/4-pos-tagging.pdf)|???| [NER и Bert]() [Natasha и Fact extraction]()|[Сравнение теггеров](Hometask_2.md)|[Соревнование Dialogue для морфологических парсеров](http://www.dialog-21.ru/media/1674/49.pdf)|ридинг к 2.10б домашка - 7.10 23:59мск|
 |2.10|[Автоматический синтаксический анализ](Slides/5-parsing.pdf)|2.10|[КС-грамматики в NLTK]()|-|-| - |
-|9.10|-|9.10|-|[проект]()|-||
+|9.10|-|9.10|-|[проект](https://docs.google.com/document/d/1coB7WmQvsgtRyUK4-iKw4Ta6ZoWcWspJfxDSazLWWwo/edit?usp=sharing)|-||
 |16.10|Обсуждение проекта и вопросы по курсу|16.10|[]()||||
 
 ## Дополнительные материалы<a name="add"/>

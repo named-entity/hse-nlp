@@ -14,8 +14,8 @@
 |Дата|Лекция|Дата|Семинар|Домашнее задание|Дедлайн|
 |-|-|-|-|-|-|
 |6.11|[Введение. Извлечение ключевых слов.](Slides/1_Keywords.ipynb)|-|[Вспомним синтаксис: UDpipe, stanza](seminar/1_Keywords.ipynb)|-|-|
-|13.11|-|15.11|-|-|-|
-|20.11|[Named Entity Recognition](Slides/3_NER.ipynb)|25.11|[Yargy-ноутбук1](https://colab.research.google.com/drive/1qzf4Oa_nI2aB-dPHgBC4-nTjkFQiU6ft?usp=sharing) [Yargy-ноутбук2](https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing)|-|-|
+|13.11|[Named Entity Recognition](Slides/3_NER.ipynb)|15.11|-|-|-|
+|20.11|-|25.11|[Yargy-ноутбук1](https://colab.research.google.com/drive/1qzf4Oa_nI2aB-dPHgBC4-nTjkFQiU6ft?usp=sharing) [Yargy-ноутбук2](https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing)|-|-|
 |27.11|[Sentiment Analysis 1](Slides/7_Sentiment.ipynb)|02.12| [Opinion Mining](https://github.com/named-entity/hse-nlp/blob/master/4th_year/seminar/6_Opinion_Mining.ipynb) + [Sentiment Classification](https://colab.research.google.com/drive/1D0JEK_p2LJuF_Hd35QJ2PlujFB87bQUp?usp=sharing)|-|-|
 |4.12|[Sentiment Analysis 2](Slides/8_Sentiment.ipynb)|02.12|[Aspect based SA](https://colab.research.google.com/drive/1TfMaNkB-8fjnjZuEdVtgrIwHtL9Bi4x8)|[проект](https://docs.google.com/document/d/1eqTKOC3aJzA8TZphVE4Legw7CSGtvSgRpq-YuUkV8HM/edit?usp=sharing)||
 |11.12|[Представление значения: тезаурусы](Slides/4_Thesauri.ipynb)|14.12|[Text Summarization](https://colab.research.google.com/drive/1HQJYCF5pHI7o1MHqqPbU4y92WoZd-Ynr?usp=sharing)|[Коллокации+NER](hw/hw2.md)|17.12 23:59мск|

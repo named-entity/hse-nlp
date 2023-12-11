@@ -17,9 +17,9 @@
 |13.11|[Named Entity Recognition](Slides/3_NER.ipynb)|15.11|-|-|-|
 |20.11|[Тезаурусы](Slides/4_Thesauri.ipynb); [Word Sense Disambiguation](Slides/5_WSD.ipynb)|25.11|[Yargy-ноутбук1](https://colab.research.google.com/drive/1qzf4Oa_nI2aB-dPHgBC4-nTjkFQiU6ft?usp=sharing) [Yargy-ноутбук2](https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing)|-|-|
 |27.11|[WSD с практической частью](Slides/5_WSD.ipynb)|02.12| [Opinion Mining](https://github.com/named-entity/hse-nlp/blob/master/4th_year/seminar/6_Opinion_Mining.ipynb) + [Sentiment Classification](https://colab.research.google.com/drive/1D0JEK_p2LJuF_Hd35QJ2PlujFB87bQUp?usp=sharing)|[WSD](hw/hw1.md)|6.12 23:59мск|
-|4.12|[Sentiment Analysis 1](Slides/7_Sentiment.ipynb)|02.12|[Aspect based SA](https://colab.research.google.com/drive/1TfMaNkB-8fjnjZuEdVtgrIwHtL9Bi4x8)|[проект](https://docs.google.com/document/d/1eqTKOC3aJzA8TZphVE4Legw7CSGtvSgRpq-YuUkV8HM/edit?usp=sharing)||
-|11.12|[Sentiment Analysis 2](Slides/8_Sentiment.ipynb)|14.12|[Text Summarization](https://colab.research.google.com/drive/1HQJYCF5pHI7o1MHqqPbU4y92WoZd-Ynr?usp=sharing)|-|-|
-|18.12|[Распознавание и синтез речи]()|14.12|[Text Summarization](https://colab.research.google.com/drive/1HQJYCF5pHI7o1MHqqPbU4y92WoZd-Ynr?usp=sharing)|-|
+|11.12|[ASR+TTS](Slides/ASR_TTS.ipynb)||[|[проект](https://docs.google.com/document/d/1eqTKOC3aJzA8TZphVE4Legw7CSGtvSgRpq-YuUkV8HM/edit?usp=sharing)||
+|11.12|[Sentiment Analysis 1](Slides/7_Sentiment.ipynb)|||[Youtube+ASR](hw/hw2.md)|20.12 23:59мск|
+|18.12|[Sentiment Analysis 2](Slides/8_Sentiment.ipynb)|14.12|[Text Summarization](https://colab.research.google.com/drive/1HQJYCF5pHI7o1MHqqPbU4y92WoZd-Ynr?usp=sharing)|-|-|
 |25.12|[Information Extraction](Slides/8-information-extraction.pptx)|17.12|[WSD пустой](https://colab.research.google.com/drive/1mYGpAt_9c3pvun6ulPPcbMyGUzqZFhW8?usp=sharing), [WSD готовый](https://colab.research.google.com/drive/1N62NG-apwwzRqMXWkYnLZxCyLTpHYXnM?usp=sharing)|-|-|
 |???|[Машинный перевод](Slides/mt.pptx)|17.12| [NMT with attention](https://colab.research.google.com/drive/127wCxPjeEDKMdQNA3Wa-0xkJ2-d-NqfB#scrollTo=t-fPYP_9K8xa)  и [BLEU](https://colab.research.google.com/drive/19HMaWE7fH0X-XjwePW3EKXvJm1MOh2EY?usp=sharing)|-|-|
 |-|-|20.12|Консультация по проекту|-|-|

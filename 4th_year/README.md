@@ -14,8 +14,8 @@
 |Дата|Лекция|Дата|Семинар|Домашнее задание|Дедлайн|
 |-|-|-|-|-|-|
 |6.11|[Введение. Извлечение ключевых слов.](Slides/1_Keywords.ipynb)|-|[Вспомним синтаксис: UDpipe, stanza](seminar/1_Keywords.ipynb)|-|-|
-|13.11|[Named Entity Recognition](Slides/3_NER.ipynb)|15.11|-|-|-|
-|20.11|[Тезаурусы](Slides/4_Thesauri.ipynb); [Word Sense Disambiguation](Slides/5_WSD.ipynb)|25.11|[Yargy-ноутбук_пустой](https://colab.research.google.com/drive/1rxU4VeAxOrLiCwolaD35xh5ow9qxJLXp#scrollTo=nQQVuZfTSOrd) [Yargy-ноутбук2](https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing) [NER](https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing)|-|-|
+|13.11|[Named Entity Recognition](Slides/3_NER.ipynb)|-|-|-|-|
+|20.11|[Тезаурусы](Slides/4_Thesauri.ipynb); [Word Sense Disambiguation](Slides/5_WSD.ipynb)|15 и 25.11|[Yargy-ноутбук_пустой](https://colab.research.google.com/drive/1rxU4VeAxOrLiCwolaD35xh5ow9qxJLXp#scrollTo=nQQVuZfTSOrd) [Yargy-ноутбук2](https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing) [NER](https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing)|-|-|
 |27.11|[WSD с практической частью](Slides/5_WSD.ipynb)|02.12| -|[WSD](hw/hw1.md)|6.12 23:59мск|
 |11.12|[ASR+TTS](Slides/ASR_TTS.ipynb)||[|[проект](https://docs.google.com/document/d/1eqTKOC3aJzA8TZphVE4Legw7CSGtvSgRpq-YuUkV8HM/edit?usp=sharing)||
 |11.12|[Sentiment Analysis 1](Slides/7_Sentiment.ipynb)|||[Youtube+ASR](hw/hw2.md)|20.12 23:59мск|
